@@ -1,0 +1,75 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+body {
+    background-color: #008F8C; /* Cor de fundo do body */
+    font-family: Arial, sans-serif; /* Fonte base para todo o documento */
+}
+
+nav {
+    width: 100%;
+    background-color: #008F8C; /* Cor de fundo da nav */
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+nav h1 {
+    color: #FACFCE;
+    font-size: 28px;
+    margin-bottom: 20px;
+    font-family: Courier;
+}
+
+nav img {
+    margin-bottom: 20px;
+}
+
+nav p {
+    color: #FACFCE;
+    font-size: 20px;
+    line-height: 1.5;
+    font-family: Courier New;
+}
+
+nav li {
+    font-size: 18px;
+    color: #FACFCE;
+    margin-bottom: 10px;
+    font-family: Courier New;
+}
+
+nav li a {
+    font-size: 18px;
+    color: #FACFCE;
+    margin-bottom: 20px;
+    font-family: Courier New;
+}
+nav h2{
+	font-family: Courier New;
+	 font-size: 18px;
+    color: #FACFCE;
+}
+
+
+
+footer {
+    width: 100%;
+    background-color: #23606E;
+    display: flex;
+    justify-content: space-around;
+}
+
+.gastos li a, .dicas li a {
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    background-color: #23606E;
+}
+.imagemdolado{
+    
+    display: inline-block;
+}

@@ -1,0 +1,4 @@
+A educação financeira exige a coleta de dados  e a execução de cálculos. Com os dados retirados da conta de energia pessoal, é possível realizar os cálculos com a fórmula, conforme dito na folha.
+Começando com o chuveiro, com potência (P) em Watts, de 7500 e o tempo usado diariamente de 20 minutos, concluímos que o consumo diário (Kw/h) é de 2,5Kw/h, e o mensal em reais, é de R$ 83,25.
+Outro exemplo mostrado na tabela, é o do computador ou notebook. Com potência (P) de 57w e o tempo de 360 minutos, o consumo diário (KW/h) é de 0,342 KW/h, e o mensal é de R$ 11,38.
+Tendo em vista o valor de KW/h de R$ 1,11, o consumo  total (em KW/h) é de 96,36 Kw/h, e o consumo total (em reais) é de R$ 106,93. Outros cálculos foram feitos na folha para chegar nos resultados finais, usando por exemplo, a geladeira e a lâmpada.
