@@ -1,0 +1,1079 @@
+<!DOCTYPE html>
+<html lang="pt-BR" class="light-skin no-svg">
+<head>
+	<meta charset="UTF-8">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://respostas.sebrae.com.br/xmlrpc.php">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<meta name="generator" content="Discy 5.7.3">
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+			<script>
+				// Allow detecting when fb api is loaded.
+				function Deferred() {
+					var self = this;
+					this.promise = new Promise( function( resolve, reject ) {
+						self.reject  = reject;
+						self.resolve = resolve;
+					});
+				}
+				window.fbLoaded = new Deferred();
+
+				window.fbAsyncInit = function() {
+					FB.init({
+						appId            : '924517234549057',
+						autoLogAppEvents : true,
+						xfbml            : true,
+						version          : 'v3.0'
+					});
+
+					window.fbLoaded.resolve();
+				};
+
+				(function(d, s, id){
+					var js, fjs = d.getElementsByTagName(s)[0];
+					if (d.getElementById(id)) {return;}
+					js = d.createElement(s); js.id = id;
+					js.src = "https://connect.facebook.net/en_US/sdk.js";
+					fjs.parentNode.insertBefore(js, fjs);
+				}(document, 'script', 'facebook-jssdk'));
+			</script>
+			
+	<!-- This site is optimized with the Yoast SEO Premium plugin v16.2 (Yoast SEO v19.4) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>O que é educação financeira e como desenvolver essa área na sua vida? - Sebrae Respostas</title>
+	<link rel="canonical" href="https://respostas.sebrae.com.br/o-que-e-afinal-educacao-financeira-e-como-desenvolver-essa-area-na-sua-vida/" />
+	<meta property="og:locale" content="pt_BR" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="O que é educação financeira e como desenvolver essa área na sua vida? - Sebrae Respostas" />
+	<meta property="og:description" content="Crises econômicas ou tempos de desemprego não são problemas apenas conhecidos pelos brasileiros. Há momentos em que a economia de um país passa por mudanças e crises. Não apenas isso, pessoalmente nós podemos passar por períodos de desemprego, vulnerabilidades ou mudanças. Neste artigo falaremos sobre o conceito e a importância da educação financeira na vida. [&hellip;]" />
+	<meta property="og:url" content="https://respostas.sebrae.com.br/o-que-e-afinal-educacao-financeira-e-como-desenvolver-essa-area-na-sua-vida/" />
+	<meta property="og:site_name" content="Sebrae Respostas" />
+	<meta property="article:author" content="https://www.facebook.com/GuiaIlhabelaOnline/?modal=admin_todo_tour" />
+	<meta property="article:published_time" content="2020-04-26T16:29:03+00:00" />
+	<meta property="article:modified_time" content="2020-04-29T17:35:08+00:00" />
+	<meta property="og:image" content="https://respostas.sebrae.com.br/wp-content/uploads/2020/04/educação-financeira.jpg" />
+	<meta property="og:image:width" content="721" />
+	<meta property="og:image:height" content="501" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="author" content="tucailha" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Escrito por" />
+	<meta name="twitter:data1" content="tucailha" />
+	<meta name="twitter:label2" content="Est. tempo de leitura" />
+	<meta name="twitter:data2" content="6 minutos" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://respostas.sebrae.com.br/#organization","name":"Sebrae","url":"https://respostas.sebrae.com.br/","sameAs":[],"logo":{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://respostas.sebrae.com.br/#/schema/logo/image/","url":"https://respostas.sebrae.com.br/wp-content/uploads/2019/08/sebrae-logo.jpg","contentUrl":"https://respostas.sebrae.com.br/wp-content/uploads/2019/08/sebrae-logo.jpg","width":1600,"height":1131,"caption":"Sebrae"},"image":{"@id":"https://respostas.sebrae.com.br/#/schema/logo/image/"}},{"@type":"WebSite","@id":"https://respostas.sebrae.com.br/#website","url":"https://respostas.sebrae.com.br/","name":"Sebrae Respostas","description":"Sebrae Respostas: Comunidade de Empreendedores","publisher":{"@id":"https://respostas.sebrae.com.br/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://respostas.sebrae.com.br/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"pt-BR"},{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://respostas.sebrae.com.br/o-que-e-afinal-educacao-financeira-e-como-desenvolver-essa-area-na-sua-vida/#primaryimage","url":"https://respostas.sebrae.com.br/wp-content/uploads/2020/04/educação-financeira.jpg","contentUrl":"https://respostas.sebrae.com.br/wp-content/uploads/2020/04/educação-financeira.jpg","width":721,"height":501,"caption":"O que é educação financeira e como desenvolver essa área na sua vida?"},{"@type":"WebPage","@id":"https://respostas.sebrae.com.br/o-que-e-afinal-educacao-financeira-e-como-desenvolver-essa-area-na-sua-vida/","url":"https://respostas.sebrae.com.br/o-que-e-afinal-educacao-financeira-e-como-desenvolver-essa-area-na-sua-vida/","name":"O que é educação financeira e como desenvolver essa área na sua vida? - Sebrae Respostas","isPartOf":{"@id":"https://respostas.sebrae.com.br/#website"},"primaryImageOfPage":{"@id":"https://respostas.sebrae.com.br/o-que-e-afinal-educacao-financeira-e-como-desenvolver-essa-area-na-sua-vida/#primaryimage"},"image":{"@id":"https://respostas.sebrae.com.br/o-que-e-afinal-educacao-financeira-e-como-desenvolver-essa-area-na-sua-vida/#primaryimage"},"thumbnailUrl":"https://respostas.sebrae.com.br/wp-content/uploads/2020/04/educação-financeira.jpg","datePublished":"2020-04-26T16:29:03+00:00","dateModified":"2020-04-29T17:35:08+00:00","breadcrumb":{"@id":"https://respostas.sebrae.com.br/o-que-e-afinal-educacao-financeira-e-como-desenvolver-essa-area-na-sua-vida/#breadcrumb"},"inLanguage":"pt-BR","potentialAction":[{"@type":"ReadAction","target":["https://respostas.sebrae.com.br/o-que-e-afinal-educacao-financeira-e-como-desenvolver-essa-area-na-sua-vida/"]}]},{"@type":"BreadcrumbList","@id":"https://respostas.sebrae.com.br/o-que-e-afinal-educacao-financeira-e-como-desenvolver-essa-area-na-sua-vida/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Educação financeira","item":"https://respostas.sebrae.com.br/category/educacao-financeira-2/"},{"@type":"ListItem","position":2,"name":"O que é educação financeira e como desenvolver essa área na sua vida?"}]},{"@type":"Article","@id":"https://respostas.sebrae.com.br/o-que-e-afinal-educacao-financeira-e-como-desenvolver-essa-area-na-sua-vida/#article","isPartOf":{"@id":"https://respostas.sebrae.com.br/o-que-e-afinal-educacao-financeira-e-como-desenvolver-essa-area-na-sua-vida/"},"author":{"name":"tucailha","@id":"https://respostas.sebrae.com.br/#/schema/person/bb5d5139a61d344f2edfdd8c11a0de94"},"headline":"O que é educação financeira e como desenvolver essa área na sua vida?","datePublished":"2020-04-26T16:29:03+00:00","dateModified":"2020-04-29T17:35:08+00:00","mainEntityOfPage":{"@id":"https://respostas.sebrae.com.br/o-que-e-afinal-educacao-financeira-e-como-desenvolver-essa-area-na-sua-vida/"},"wordCount":1295,"commentCount":0,"publisher":{"@id":"https://respostas.sebrae.com.br/#organization"},"image":{"@id":"https://respostas.sebrae.com.br/o-que-e-afinal-educacao-financeira-e-como-desenvolver-essa-area-na-sua-vida/#primaryimage"},"thumbnailUrl":"https://respostas.sebrae.com.br/wp-content/uploads/2020/04/educação-financeira.jpg","keywords":["dinheiro","Educação Financeira","finanças","planejamento financeiro"],"articleSection":["Educação financeira"],"inLanguage":"pt-BR","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://respostas.sebrae.com.br/o-que-e-afinal-educacao-financeira-e-como-desenvolver-essa-area-na-sua-vida/#respond"]}]},{"@type":"Person","@id":"https://respostas.sebrae.com.br/#/schema/person/bb5d5139a61d344f2edfdd8c11a0de94","name":"tucailha","image":{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://respostas.sebrae.com.br/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/b597cfbaf543a21bf30f45905bd85cd8?s=96&d=monsterid&r=g","contentUrl":"https://secure.gravatar.com/avatar/b597cfbaf543a21bf30f45905bd85cd8?s=96&d=monsterid&r=g","caption":"tucailha"},"sameAs":["https://ilhabelasp.online/","https://www.facebook.com/GuiaIlhabelaOnline/?modal=admin_todo_tour","https://www.instagram.com/guiailhabelasp/"],"url":"https://respostas.sebrae.com.br/profile/tucailha/"}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.gstatic.com' />
+<link rel='dns-prefetch' href='//connect.facebook.net' />
+<link rel='dns-prefetch' href='//lh3.googleusercontent.com' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Feed para Sebrae Respostas &raquo;" href="https://respostas.sebrae.com.br/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Sebrae Respostas &raquo;" href="https://respostas.sebrae.com.br/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Sebrae Respostas &raquo; O que é educação financeira e como desenvolver essa área na sua vida?" href="https://respostas.sebrae.com.br/o-que-e-afinal-educacao-financeira-e-como-desenvolver-essa-area-na-sua-vida/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/respostas.sebrae.com.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.6.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='mo_oauth_admin_settings_style-css' href='https://respostas.sebrae.com.br/wp-content/plugins/oauth-client/css/style_settings.css?ver=6.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mo_oauth_admin_settings_phone_style-css' href='https://respostas.sebrae.com.br/wp-content/plugins/oauth-client/css/phone.css?ver=6.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mo_oauth_admin_settings_datatable-css' href='https://respostas.sebrae.com.br/wp-content/plugins/oauth-client/css/jquery.dataTables.min.css?ver=6.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mo-wp-bootstrap-social-css' href='https://respostas.sebrae.com.br/wp-content/plugins/oauth-client/css/bootstrap-social.css?ver=6.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mo-wp-bootstrap-main-css' href='https://respostas.sebrae.com.br/wp-content/plugins/oauth-client/css/bootstrap.min-preview.css?ver=6.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mo-wp-font-awesome-css' href='https://respostas.sebrae.com.br/wp-content/plugins/oauth-client/css/font-awesome.min.css?version=4.8&#038;ver=6.6.1' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://respostas.sebrae.com.br/wp-includes/css/dist/block-library/style.min.css?ver=6.6.1' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='select2-css-css' href='https://respostas.sebrae.com.br/wp-content/plugins/WPQA/assets/css/select2.min.css?ver=6.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wpqa-custom-css-css' href='https://respostas.sebrae.com.br/wp-content/plugins/WPQA/assets/css/custom.css?ver=6.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawsome-css-css' href='https://respostas.sebrae.com.br/wp-content/plugins/accesspress-social-login-lite/css/font-awesome/font-awesome.min.css?ver=3.4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='apsl-frontend-css-css' href='https://respostas.sebrae.com.br/wp-content/plugins/accesspress-social-login-lite/css/frontend.css?ver=3.4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css' href='https://respostas.sebrae.com.br/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css' href='https://respostas.sebrae.com.br/wp-content/plugins/wp-quiz-pro/assets/frontend/css/animate.css?ver=3.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-quiz-css' href='https://respostas.sebrae.com.br/wp-content/plugins/wp-quiz-pro/assets/frontend/css/wp-quiz.css?ver=2.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cmplz-general-css' href='https://respostas.sebrae.com.br/wp-content/plugins/complianz-gdpr/assets/css/cookieblocker.min.css?ver=6.5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='discy-entypo-css' href='https://respostas.sebrae.com.br/wp-content/themes/discy/css/entypo/entypo.css?ver=6.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyPhoto-css' href='https://respostas.sebrae.com.br/wp-content/themes/discy/css/prettyPhoto.css?ver=6.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='discy-font-awesome-css' href='https://respostas.sebrae.com.br/wp-content/themes/discy/css/fontawesome/css/fontawesome-all.min.css?ver=6.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='discy-main-style-css' href='https://respostas.sebrae.com.br/wp-content/themes/discy/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='discy-fonts-css' href='https://fonts.googleapis.com/css2?family=Roboto%3Awght%40400%3B600%3B700&#038;subset=cyrillic%2Ccyrillic-ext%2Cgreek%2Cgreek-ext%2Clatin-ext%2Cvietnamese&#038;display=swap&#038;ver=5.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='discy-basic-css-css' href='https://respostas.sebrae.com.br/wp-content/themes/discy/css/basic.css?ver=5.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='discy-main-css-css' href='https://respostas.sebrae.com.br/wp-content/themes/discy/css/main.css?ver=5.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='discy-vars-css-css' href='https://respostas.sebrae.com.br/wp-content/themes/discy/css/vars.css?ver=5.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='discy-responsive-css' href='https://respostas.sebrae.com.br/wp-content/themes/discy/css/responsive.css?ver=5.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='discy-dark-css-css' href='https://respostas.sebrae.com.br/wp-content/themes/discy/css/dark.css?ver=5.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wpqa-skin-default-css' href='https://respostas.sebrae.com.br/wp-content/themes/discy/css/skins/skins.css?ver=6.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='discy-custom-css-css' href='https://respostas.sebrae.com.br/wp-content/themes/discy/css/custom.css?ver=5.7.3' type='text/css' media='all' />
+<style id='discy-custom-css-inline-css' type='text/css'>
+.call-action-unlogged,.dark-skin .call-action-unlogged {background-image: url("https://respostas.sebrae.com.br/wp-content/uploads/2024/07/sebrae-respostas.jpg") ;
+					filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://respostas.sebrae.com.br/wp-content/uploads/2024/07/sebrae-respostas.jpg",sizingMethod="scale");
+					-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://respostas.sebrae.com.br/wp-content/uploads/2024/07/sebrae-respostas.jpg',sizingMethod='scale')";
+					background-size: cover;}@media only screen and (max-width: 600px) {.hide-mobile-top-footer .top-footer,.hide-mobile-bottom-footer .bottom-footer,.hide-mobile-sidebar .warp-sidebar,.hide-mobile-sidebar .sidebar,.hide-mobile-sidebar .hide-sidebar{display: none}}@font-face {font-family:"entypo";font-display:swap;src:url(https://respostas.sebrae.com.br/wp-content/themes/discy/css/entypo/entypo.woff2) format("woff2");font-weight:normal;font-style:normal;}@media only screen and (max-width: 479px) {
+				.header.fixed-nav {
+					position: relative !important;
+				}
+			}@media (min-width: 1330px) {
+				.discy-custom-width .the-main-container,
+				.discy-custom-width .main_center .the-main-inner,
+				.discy-custom-width .main_center .hide-main-inner,
+				.discy-custom-width .main_center main.all-main-wrap,
+				.discy-custom-width .main_right main.all-main-wrap,
+				.discy-custom-width .main_full main.all-main-wrap,
+				.discy-custom-width .main_full .the-main-inner,
+				.discy-custom-width .main_full .hide-main-inner,
+				.discy-custom-width .main_left main.all-main-wrap {
+					width: 1300px;
+				}
+				.discy-custom-width main.all-main-wrap,.discy-custom-width .menu_left .the-main-inner,.discy-custom-width .menu_left .hide-main-inner {
+					width: 1100px;
+				}
+				.discy-custom-width.discy-boxed-3 .menu_left .the-main-inner {
+					width: 1100px !important;
+				}
+				.discy-custom-width .the-main-inner,.discy-custom-width .hide-main-inner {
+					width: 821px;
+				}
+				.discy-custom-width .left-header {
+					width: 1020px;
+				}
+				.discy-custom-width .mid-header {
+					width: 815px;
+				}
+				.discy-custom-width .main_sidebar .hide-main-inner,.discy-custom-width .main_right .hide-main-inner,.discy-custom-width .main_right .the-main-inner,.discy-custom-width .main_left .the-main-inner,.discy-custom-width .main_left .hide-main-inner,.discy-custom-width .main_left .hide-main-inner {
+					width: 1021px;
+				}
+				.discy-custom-width.discy-left-sidebar .menu_sidebar main.all-main-wrap,.discy-custom-width.discy-left-sidebar .menu_left .the-main-inner,.discy-custom-width.discy-left-sidebar .menu_left .hide-main-inner,.discy-custom-width.discy-left-sidebar .menu_left main.all-main-wrap {
+					width: 1070px;
+				}
+				.discy-custom-width.discy-left-sidebar .menu_sidebar .the-main-inner,.discy-custom-width.discy-left-sidebar .menu_sidebar .hide-main-inner,.discy-custom-width.discy-left-sidebar .menu_left .hide-main-inner {
+					width: 791px;
+				}
+				.discy-custom-width.discy-left-sidebar .menu_sidebar .mid-header,.discy-custom-width.discy-left-sidebar .menu_left .mid-header {
+					width: 785px;
+				}
+			}
+</style>
+<link rel='stylesheet' id='style_login_widget-css' href='https://respostas.sebrae.com.br/wp-content/plugins/oauth-client/css/style_login_widget.css?ver=6.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='https://respostas.sebrae.com.br/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.15.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-legacy-css' href='https://respostas.sebrae.com.br/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://respostas.sebrae.com.br/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-132379-css' href='https://respostas.sebrae.com.br/wp-content/uploads/elementor/css/post-132379.css?ver=1646149190' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css' href='https://respostas.sebrae.com.br/wp-content/uploads/elementor/css/global.css?ver=1646149190' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.6.1' type='text/css' media='all' />
+<script type="text/javascript">
+            window._nslDOMReady = function (callback) {
+                if ( document.readyState === "complete" || document.readyState === "interactive" ) {
+                    callback();
+                } else {
+                    document.addEventListener( "DOMContentLoaded", callback );
+                }
+            };
+            </script><script type="text/javascript" async src="https://respostas.sebrae.com.br/wp-content/plugins/burst-statistics/helpers/timeme/timeme.min.js?ver=1.5.2" id="burst-timeme-js"></script>
+<script type="text/javascript" id="burst-js-extra">
+/* <![CDATA[ */
+var burst = {"url":"https:\/\/respostas.sebrae.com.br\/wp-json\/","page_id":"82677","cookie_retention_days":"30","beacon_url":"https:\/\/respostas.sebrae.com.br\/burst-statistics-endpoint.php","options":{"beacon_enabled":1,"enable_cookieless_tracking":0,"enable_turbo_mode":0,"do_not_track":0},"goals":[],"goals_script_url":"https:\/\/respostas.sebrae.com.br\/wp-content\/plugins\/burst-statistics\/\/assets\/js\/build\/burst-goals.js?v=1.5.2"};
+/* ]]> */
+</script>
+<script type="text/javascript" async src="https://respostas.sebrae.com.br/wp-content/plugins/burst-statistics/assets/js/build/burst.min.js?ver=1.5.2" id="burst-js"></script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-content/plugins/WPQA/assets/js/select2.min.js?ver=6.1.3" id="select2-js-js"></script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-content/plugins/accesspress-social-login-lite/js/frontend.js?ver=3.4.8" id="apsl-frontend-js-js"></script>
+
+<!-- Snippet do Google Analytics adicionado pelo Site Kit -->
+<script data-rocketlazyloadscript='https://respostas.sebrae.com.br/wp-content/cache/busting/1/gtm-a86a0234a9bc5315618d26e2253640dd.js' data-no-minify="1" type="text/javascript"  id="google_gtagjs-js" async></script>
+<script data-rocketlazyloadscript='data:text/javascript;base64,Ci8qIDwhW0NEQVRBWyAqLwp3aW5kb3cuZGF0YUxheWVyID0gd2luZG93LmRhdGFMYXllciB8fCBbXTtmdW5jdGlvbiBndGFnKCl7ZGF0YUxheWVyLnB1c2goYXJndW1lbnRzKTt9Cmd0YWcoJ3NldCcsICdsaW5rZXInLCB7ImRvbWFpbnMiOlsicmVzcG9zdGFzLnNlYnJhZS5jb20uYnIiXX0gKTsKZ3RhZygianMiLCBuZXcgRGF0ZSgpKTsKZ3RhZygic2V0IiwgImRldmVsb3Blcl9pZC5kWlROaU1UIiwgdHJ1ZSk7Cmd0YWcoImNvbmZpZyIsICJVQS0xNDc4NjIwNTMtMSIsIHsiYW5vbnltaXplX2lwIjp0cnVlfSk7Cmd0YWcoImNvbmZpZyIsICJHVC1UV1pHUUc5Iik7Ci8qIF1dPiAqLwo=' type="text/javascript" id="google_gtagjs-js-after"></script>
+
+<!-- Finalizar o snippet do Google Analytics adicionado pelo Site Kit -->
+<link rel="https://api.w.org/" href="https://respostas.sebrae.com.br/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://respostas.sebrae.com.br/wp-json/wp/v2/posts/82677" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://respostas.sebrae.com.br/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.6.1" />
+<link rel='shortlink' href='https://respostas.sebrae.com.br/?p=82677' />
+<meta property="og:site_name" content="Sebrae Respostas">
+<meta property="og:type" content="website">
+<meta property="og:title" content="O que é educação financeira e como desenvolver essa área na sua vida?">
+<meta name="twitter:title" content="O que é educação financeira e como desenvolver essa área na sua vida?">
+<meta name="description" content="Crises econômicas ou tempos de desemprego não são problemas apenas conhecidos pelos brasileiros. Há momentos em que a economia de um país passa por mudanças e crises. Não apenas isso, pessoalmente nós podemos passar por ...">
+<meta property="og:description" content="Crises econômicas ou tempos de desemprego não são problemas apenas conhecidos pelos brasileiros. Há momentos em que a economia de um país passa por mudanças e crises. Não apenas isso, pessoalmente nós podemos passar por ...">
+<meta name="twitter:description" content="Crises econômicas ou tempos de desemprego não são problemas apenas conhecidos pelos brasileiros. Há momentos em que a economia de um país passa por mudanças e crises. Não apenas isso, pessoalmente nós podemos passar por ...">
+<meta name='keywords' content='dinheiro,Educação Financeira,finanças,planejamento financeiro'>
+<meta property="og:url" content="https://respostas.sebrae.com.br/o-que-e-afinal-educacao-financeira-e-como-desenvolver-essa-area-na-sua-vida/">
+<meta property="og:image" content="https://respostas.sebrae.com.br/wp-content/uploads/2020/04/educação-financeira-600x315.jpg">
+<meta name="twitter:image" content="https://respostas.sebrae.com.br/wp-content/uploads/2020/04/educação-financeira-600x315.jpg">
+<meta name="cdp-version" content="1.3.9" /><meta name="generator" content="Site Kit by Google 1.111.0" /><style>.cmplz-hidden{display:none!important;}</style>
+<link rel="preload" as="font" href="https://respostas.sebrae.com.br/wp-includes/fonts/dashicons.svg" crossorigin>
+<link rel="preload" as="font" href="https://respostas.sebrae.com.br/wp-includes/fonts/dashicons.ttf" crossorigin>
+<link rel="preload" as="font" href="https://respostas.sebrae.com.br/wp-includes/fonts/dashicons.woff" crossorigin>
+<link rel="preload" as="font" href="https://respostas.sebrae.com.br/wp-includes/fonts/dashicons.woff2" crossorigin><link rel="shortcut icon" href="https://respostas.sebrae.com.br/wp-content/uploads/2020/06/icone-sebrae-respostas.png" type="image/x-icon">
+<meta name="theme-color" content="#2d6ff7">
+			<meta name="msapplication-navbutton-color" content="#2d6ff7">
+			<meta name="apple-mobile-web-app-capable" content="yes">
+			<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="google-site-verification" content="lKmzYky7O2GZwF453_u42tVVsI78MGqUKsEFO_SDe9M"><style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript></head>
+<body data-rsssl=1 data-cmplz=1 class="post-template-default single single-post postid-82677 single-format-standard page-with-breadcrumbs single_page single_page_no main_for_all discy-not-boxed discy-custom-width activate-font-awesome elementor-default elementor-kit-132379 elementor-page elementor-page-82677">
+	<div class="background-cover"></div>
+		<div class="put-wrap-pop">
+					</div>
+						<div class="panel-pop" id="signup-panel">
+					<i class="icon-cancel"></i>					<div class="pop-border-radius">
+													<div class="pop-header">
+								<h3>
+									Cadastrar								</h3>
+															</div><!-- End pop-header -->
+												<div class="panel-pop-content">
+							<input type="hidden" name="_wp_http_referer" value="/o-que-e-afinal-educacao-financeira-e-como-desenvolver-essa-area-na-sua-vida/" /><div class="wpqa_login_social">    <div class='apsl-login-networks theme-4 clearfix'>
+                                <div class='social-networks'>
+                                <a href="https://respostas.sebrae.com.br/entrar/?apsl_login_id=facebook_login&amp;state=cmVkaXJlY3RfdG89aHR0cHMlM0ElMkYlMkZyZXNwb3N0YXMuc2VicmFlLmNvbS5iciUzQTQ0MyUyRm8tcXVlLWUtYWZpbmFsLWVkdWNhY2FvLWZpbmFuY2VpcmEtZS1jb21vLWRlc2Vudm9sdmVyLWVzc2EtYXJlYS1uYS1zdWEtdmlkYSUyRg==" title="Login com facebook" data-wpel-link="internal" target="_self" rel="noopener noreferrer">
+                        <div class="apsl-icon-block icon-facebook">
+                                                    <i class="fa fa-facebook"></i>
+                                                    <span class="apsl-login-text">Login</span>
+                            <span class="apsl-long-login-text">Login com facebook</span>
+                        </div>
+                    </a>
+                                        <a href="https://respostas.sebrae.com.br/entrar/?apsl_login_id=google_login&amp;state=cmVkaXJlY3RfdG89aHR0cHMlM0ElMkYlMkZyZXNwb3N0YXMuc2VicmFlLmNvbS5iciUzQTQ0MyUyRm8tcXVlLWUtYWZpbmFsLWVkdWNhY2FvLWZpbmFuY2VpcmEtZS1jb21vLWRlc2Vudm9sdmVyLWVzc2EtYXJlYS1uYS1zdWEtdmlkYSUyRg==" title="Login com google" data-wpel-link="internal" target="_self" rel="noopener noreferrer">
+                        <div class="apsl-icon-block icon-google">
+                                                    <i class="fa fa-google"></i>
+                                                    <span class="apsl-login-text">Login</span>
+                            <span class="apsl-long-login-text">Login com google</span>
+                        </div>
+                    </a>
+                            </div>
+    </div>
+<div class="wpqa_login_social_div"><span>ou use</span></div>
+				</div><form method="post" class="signup_form wpqa_form wpqa-no-ajax" enctype="multipart/form-data">
+				<div class="wpqa_error_desktop"><div class="wpqa_error"></div></div>
+				<div class="wpqa_success"></div>
+				<div class="form-inputs clearfix"><p class="username_field">
+									<label for="user_name_99">Nome de usuário<span class="required">*</span></label>
+									<input type="text" class="required-item form-control" name="user_name" id="user_name_99" value="">
+									<i class="icon-user"></i>
+								</p><p class="email_field">
+			<label for="email_99">E-Mail<span class="required">*</span></label>
+			<input class="form-control" autocomplete="email" type="text" name="email" id="email_99" value="">
+			<i class="icon-mail"></i>
+		</p><p class="password_field">
+									<label for="pass1_99">Senha<span class="required">*</span></label>
+									<input type="password" class="required-item form-control" name="pass1" id="pass1_99" autocomplete="off">
+									<i class="icon-lock-open"></i>
+								</p><p class="password_2_field">
+										<label for="pass2_99">Confirme a senha<span class="required">*</span></label>
+										<input type="password" class="required-item form-control" name="pass2" id="pass2_99" autocomplete="off">
+										<i class="icon-lock"></i>
+									</p><div class='wpqa_captcha_question'><div class='wpqa_captcha_p wpqa_captcha_p_google'><label for='wpqa_captcha_99'>Captcha (coloque no campo abaixo o resultado da soma abaixo do campo)<span class='required'>*</span></label><div class='g-recaptcha' data-sitekey='6Lf06Z0eAAAAAEWi4qVeAsBlWqkxnQGduNx0L_87'></div><br></div></div></div>
+
+				<div class="clearfix"></div>
+				<div class="wpqa_error_mobile"><div class="wpqa_error"></div></div>
+
+				<p class="form-submit d-flex align-items-center justify-content-between mb-0">
+					<span class="load_span"><span class="loader_2"></span></span>
+					<input type="submit" name="register" value="Cadastrar" class="button-default">
+				</p>
+
+				<input type="hidden" name="form_type" value="wpqa-signup">
+				<input type="hidden" name="action" value="wpqa_ajax_signup_process">
+				<input type="hidden" name="redirect_to" value="https://respostas.sebrae.com.br/o-que-e-afinal-educacao-financeira-e-como-desenvolver-essa-area-na-sua-vida/">
+				<input type="hidden" name="_wp_http_referer" value="/o-que-e-afinal-educacao-financeira-e-como-desenvolver-essa-area-na-sua-vida/" />
+			</form>						</div><!-- End panel-pop-content -->
+					</div><!-- End pop-border-radius -->
+											<div class="pop-footer">
+							Você já tem um conta? <a href="https://respostas.sebrae.com.br/entrar/" class="login-panel" data-wpel-link="internal" target="_self" rel="noopener noreferrer">Entre Agora!</a>						</div><!-- End pop-footer -->
+									</div><!-- End signup -->
+							<div class="panel-pop" id="lost-password">
+					<i class="icon-cancel"></i>					<div class="pop-border-radius">
+													<div class="pop-header">
+								<h3>
+									Esqueceu a senha?								</h3>
+															</div><!-- End pop-header -->
+												<div class="panel-pop-content">
+							<p>Perdeu sua senha? Por favor, indique o seu endereço de e-mail. Você receberá um link e criará uma nova senha por e-mail.</p><form method="post" class="wpqa-lost-password wpqa_form">
+				<div class="wpqa_error_desktop wpqa_hide"><div class="wpqa_error"></div></div>
+				<div class="wpqa_success"></div>
+				<div class="form-inputs clearfix">
+					<p>
+						<label for="user_mail_467">E-Mail<span class="required">*</span></label>
+						<input type="email" class="required-item form-control" name="user_mail" id="user_mail_467">
+						<i class="icon-mail"></i>
+					</p>
+				</div>
+
+				<div class="clearfix"></div>
+				<div class="wpqa_error_mobile wpqa_hide"><div class="wpqa_error"></div></div>
+
+				<p class="form-submit d-flex align-items-center justify-content-between mb-0">
+					<span class="load_span"><span class="loader_2"></span></span>
+					<input type="submit" value="Redefinir" class="button-default">
+				</p>
+				<input type="hidden" name="form_type" value="wpqa_forget">
+				<input type="hidden" name="action" value="wpqa_ajax_password_process">
+				<input type="hidden" name="redirect_to" value="https://respostas.sebrae.com.br/o-que-e-afinal-educacao-financeira-e-como-desenvolver-essa-area-na-sua-vida/">
+			</form>						</div><!-- End panel-pop-content -->
+					</div><!-- End pop-border-radius -->
+											<div class="pop-footer">
+							Você já tem um conta? <a href="https://respostas.sebrae.com.br/entrar/" class="login-panel" data-wpel-link="internal" target="_self" rel="noopener noreferrer">Entre Agora!</a>						</div><!-- End pop-footer -->
+									</div><!-- End lost-password -->
+							<div class="panel-pop panel-pop-not-login" id="wpqa-post">
+					<i class="icon-cancel"></i>
+					<div class="panel-pop-content">
+						<div class="alert-message alert-message-error"><i class="icon-cancel"></i><p>Você precisa se logar para postar no Blog </p></div><div class="wpqa_login_social">    <div class='apsl-login-networks theme-4 clearfix'>
+                                <div class='social-networks'>
+                                <a href="https://respostas.sebrae.com.br/entrar/?apsl_login_id=facebook_login&amp;state=cmVkaXJlY3RfdG89aHR0cHMlM0ElMkYlMkZyZXNwb3N0YXMuc2VicmFlLmNvbS5iciUzQTQ0MyUyRm8tcXVlLWUtYWZpbmFsLWVkdWNhY2FvLWZpbmFuY2VpcmEtZS1jb21vLWRlc2Vudm9sdmVyLWVzc2EtYXJlYS1uYS1zdWEtdmlkYSUyRg==" title="Login com facebook" data-wpel-link="internal" target="_self" rel="noopener noreferrer">
+                        <div class="apsl-icon-block icon-facebook">
+                                                    <i class="fa fa-facebook"></i>
+                                                    <span class="apsl-login-text">Login</span>
+                            <span class="apsl-long-login-text">Login com facebook</span>
+                        </div>
+                    </a>
+                                        <a href="https://respostas.sebrae.com.br/entrar/?apsl_login_id=google_login&amp;state=cmVkaXJlY3RfdG89aHR0cHMlM0ElMkYlMkZyZXNwb3N0YXMuc2VicmFlLmNvbS5iciUzQTQ0MyUyRm8tcXVlLWUtYWZpbmFsLWVkdWNhY2FvLWZpbmFuY2VpcmEtZS1jb21vLWRlc2Vudm9sdmVyLWVzc2EtYXJlYS1uYS1zdWEtdmlkYSUyRg==" title="Login com google" data-wpel-link="internal" target="_self" rel="noopener noreferrer">
+                        <div class="apsl-icon-block icon-google">
+                                                    <i class="fa fa-google"></i>
+                                                    <span class="apsl-login-text">Login</span>
+                            <span class="apsl-long-login-text">Login com google</span>
+                        </div>
+                    </a>
+                            </div>
+    </div>
+<div class="wpqa_login_social_div"><span>ou use</span></div>
+				</div><form class="wpqa_form login-form wpqa_login wpqa-no-ajax" method="post">
+				
+				<div class="wpqa_error_desktop"><div class="wpqa_error"></div></div>
+				
+				<div class="form-inputs clearfix">
+					<p class="login-text">
+						<label for="username_33">Nome de perfil ou e-mail<span class="required">*</span></label>
+						<input id="username_33" class="required-item form-control" autocomplete="username" type="text" name="log" value="">
+						<i class="icon-user"></i>
+					</p>
+					<p class="login-password">
+						<label for="password_33">Senha<span class="required">*</span></label>
+						<input id="password_33" class="required-item form-control" autocomplete="current-password" type="password" name="pwd">
+						<i class="icon-lock-open"></i>
+					</p>
+					
+				</div>
+				
+				<div class="d-flex align-items-center justify-content-between mb-4 login-form-data">
+					<div class="wpqa_checkbox_p rememberme normal_label d-flex align-items-center mb-1">
+						<label class="mb-0"><span class="wpqa_checkbox"><input type="checkbox" name="rememberme" value="forever" checked="checked"></span> <span class="wpqa_checkbox_span">Lembre-me a senha!</span></label>
+					</div>
+					
+					<a href="https://respostas.sebrae.com.br/lost-password/" class="font-weight-bold color-dark mb-1 lost-password" data-wpel-link="internal" target="_self" rel="noopener noreferrer">Esqueceu a senha?</a>
+				</div>
+
+				<div class="clearfix"></div>
+				<div class="wpqa_error_mobile"><div class="wpqa_error"></div></div>
+
+				<p class="form-submit login-submit d-flex align-items-center justify-content-between mb-0">
+					<span class="load_span"><span class="loader_2"></span></span>
+					<input type="submit" value="Login" class="button-default login-submit">
+				</p>
+				
+				<input type="hidden" name="redirect_to" value="https://respostas.sebrae.com.br/o-que-e-afinal-educacao-financeira-e-como-desenvolver-essa-area-na-sua-vida/">
+				<input type="hidden" name="form_type" value="wpqa-login">
+				<input type="hidden" name="action" value="wpqa_ajax_login_process">
+				
+			</form>					</div><!-- End panel-pop-content -->
+											<div class="pop-footer">
+							Se ainda não tem uma conta, <a href="https://respostas.sebrae.com.br/signup/" class="signup-panel" data-wpel-link="internal" target="_self" rel="noopener noreferrer">Cadastre-se Aqui</a>						</div><!-- End pop-footer -->
+									</div><!-- End wpqa-post -->
+							<div class="panel-pop panel-pop-not-login" id="wpqa-report">
+					<i class="icon-cancel"></i>
+					<div class="panel-pop-content">
+						<p class="question_report">Please briefly explain why you feel this question should be reported.</p>
+						<p class="wpqa_hide answer_report">Explique brevemente por que você acha que essa resposta é inadequada ou abusiva.</p>
+						<p class="wpqa_hide user_report">Please briefly explain why you feel this user should be reported.</p>
+						<form class="wpqa_form submit-report" method="post">
+							<div class="wpqa_error"></div>
+							<div class="wpqa_success"></div>
+							<div class="form-inputs clearfix">
+								<p class="login-text">
+									<label for="explain-reported">Explain<span class="required">*</span></label>
+									<textarea cols="58" rows="8" class="form-control" id="explain-reported" name="explain"></textarea>
+									<i class="icon-pencil"></i>
+								</p>
+							</div>
+							<p class="form-submit mb-0">
+								<span class="load_span"><span class="loader_2"></span></span>
+								<input type="hidden" id="wpqa_report_nonce" name="wpqa_report_nonce" value="729136f4cf" />									<input type="submit" value="Denunciar abuso" class="button-default button-hide-click">
+															</p>
+							<input type="hidden" name="form_type" value="wpqa-report">
+							<input type="hidden" name="post_id" value="82677">
+						</form>
+					</div><!-- End panel-pop-content -->
+				</div><!-- End wpqa-report -->
+			
+<div id="wrap" class="wrap-not-login fixed-enabled">
+			<div class="hidden-header header-simple header-light mobile_bar_active">
+						<header class="header" itemscope="" itemtype="https://schema.org/WPHeader">
+				<div class="the-main-container header-container">
+					<div class="mobile-menu">
+						<div class="mobile-menu-click" data-menu="mobile-menu-main">
+							<i class="icon-menu"></i>
+						</div>
+					</div><!-- End mobile-menu -->
+					    <a class="logo float_l logo-img" href="https://respostas.sebrae.com.br/" title="Sebrae Respostas" data-wpel-link="internal" target="_self" rel="noopener noreferrer">
+    	            <img title="Sebrae Respostas" height="45" width="260" class="default_screen" alt="Sebrae Respostas entrar" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20260%2045'%3E%3C/svg%3E" data-lazy-src="https://respostas.sebrae.com.br/wp-content/uploads/2021/04/logo-sebrae-respostas-discy-1.png"><noscript><img title="Sebrae Respostas" height="45" width="260" class="default_screen" alt="Sebrae Respostas entrar" src="https://respostas.sebrae.com.br/wp-content/uploads/2021/04/logo-sebrae-respostas-discy-1.png"></noscript>
+                    <img title="Sebrae Respostas" height="45" width="260" class="retina_screen" alt="Sebrae Respostas entrar" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20260%2045'%3E%3C/svg%3E" data-lazy-src="https://respostas.sebrae.com.br/wp-content/uploads/2021/04/logo-sebrae-respostas-discy-1.png"><noscript><img title="Sebrae Respostas" height="45" width="260" class="retina_screen" alt="Sebrae Respostas entrar" src="https://respostas.sebrae.com.br/wp-content/uploads/2021/04/logo-sebrae-respostas-discy-1.png"></noscript>
+            </a>
+					<div class="right-header float_r">
+														<a title="Cadastrar" class="sign-in-lock mob-sign-up" href="https://respostas.sebrae.com.br/signup/" data-toggle="modal" data-wpel-link="internal" target="_self" rel="noopener noreferrer"><i class="icon-login"></i></a>
+							<a class="button-default button-sign-in" href="https://respostas.sebrae.com.br/entrar/" data-toggle="modal" data-wpel-link="internal" target="_self" rel="noopener noreferrer">Entrar</a><a class="button-default-2 button-sign-up" href="https://respostas.sebrae.com.br/signup/" data-wpel-link="internal" target="_self" rel="noopener noreferrer">Cadastrar</a>											</div><!-- End right-header -->
+					<div class="left-header float_l">
+						<h2 class="screen-reader-text site_logo">Sebrae Respostas</h2>
+												<div class="mid-header float_l">
+															<div class="header-search float_r">
+																			<form role="search" class="searchform main-search-form" method="get" action="https://respostas.sebrae.com.br/busca/">
+											<div class="search-wrapper">
+												<input type="search" class='live-search live-search-icon' autocomplete='off' placeholder="Buscar aqui ..." name="search" value="">
+																									<div class="loader_2 search_loader"></div>
+													<div class="search-results results-empty"></div>
+																								<input type="hidden" name="search_type" class="search_type" value="questions">
+												<div class="search-click"></div>
+												<button type="submit" aria-label="Procurar"><i class="icon-search"></i></button>
+											</div>
+										</form>
+																	</div><!-- End header-search -->
+								<nav class="nav float_l" itemscope="" itemtype="https://schema.org/SiteNavigationElement">
+		<h3 class="screen-reader-text">Sebrae Respostas Navigation</h3>
+		<ul id="menu-header" class="menu"><li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-75"><a class=""  href="https://respostas.sebrae.com.br/">Perguntas</a></li>
+<li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77"><a class=""  href="https://respostas.sebrae.com.br/blog/">Blog</a></li>
+</ul>	</nav><!-- End nav -->
+						</div><!-- End mid-header -->
+					</div><!-- End left-header -->
+				</div><!-- End the-main-container -->
+			</header><!-- End header -->
+				<div class="mobile-bar main-mobile-bar">
+		<div class="the-main-container">
+			<div class="mobile-bar-content">
+				<div class="the-main-container">
+					<div class="mobile-bar-search">
+						<a href="https://respostas.sebrae.com.br/busca/" data-wpel-link="internal" target="_self" rel="noopener noreferrer"><i class="icon-search"></i>Procurar</a>
+													<form role="search" method="get" class="searchform main-search-form" action="https://respostas.sebrae.com.br/busca/">
+								<i class="icon-left-open"></i>
+								<input type="search" class='live-search' autocomplete='off' name="search" value="Digite aqui sua busca ..." onfocus="if(this.value=='Digite aqui sua busca ...')this.value='';" onblur="if(this.value=='')this.value='Digite aqui sua busca ...';">
+																	<div class="loader_2 search_loader"></div>
+									<div class="search-results results-empty"></div>
+																<input type="hidden" name="search_type" class="search_type" value="questions">
+							</form>
+											</div>
+					<div class="mobile-bar-ask">
+													<a target="_self" class="wpqa-question " href="https://respostas.sebrae.com.br/add-question/"><i class="icon-help-circled"></i>Perguntar</a>
+											</div>
+				</div><!-- End the-main-container -->
+			</div><!-- End mobile-bar-content -->
+		</div><!-- End the-main-container -->
+	</div><!-- End mobile-bar -->
+		</div><!-- End hidden-header -->
+		<aside class="mobile-aside mobile-menu-main mobile-menu-wrap gray-mobile-menu" data-menu="mobile-menu-main">
+	<h3 class="screen-reader-text">Mobile menu</h3>
+	<div class="mobile-aside-inner">
+		<div class="mobile-aside-inner-inner">
+			<a href="#" class="mobile-aside-close"><i class="icon-cancel"></i><span class="screen-reader-text">Close</span></a>
+								<div class="mobile-menu-top mobile--top">
+						<div class="widget widget_ask">
+							<a target="_self" class="button-default wpqa-question " href="https://respostas.sebrae.com.br/add-question/">Perguntar</a>
+						</div>
+					</div><!-- End mobile-menu-top -->
+				<ul id="nav_menu" class="menu"><li id="menu-item-135827" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-135827"><a class=""  href="https://respostas.sebrae.com.br/"><i class="icon-home"></i>Home</a></li>
+<li id="menu-item-135829" class="nav_menu_open menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-135829"><a class=""  href="https://respostas.sebrae.com.br/perguntas/"><i class="icon-book-open"></i>Perguntas</a>
+<ul class="sub-menu">
+	<li id="menu-item-135830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-135830"><a class=""  href="https://respostas.sebrae.com.br/?show=recent-questions">Recentes</a></li>
+	<li id="menu-item-135832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-135832"><a class=""  href="https://respostas.sebrae.com.br/?show=nao-respondidas">Não respondidas</a></li>
+	<li id="menu-item-135833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-135833"><a class=""  href="https://respostas.sebrae.com.br/perguntas/">Todas</a></li>
+</ul>
+</li>
+<li id="menu-item-135828" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135828"><a class=""  href="https://respostas.sebrae.com.br/communities/"><i class="icon-folder"></i>Comunidades</a></li>
+<li id="menu-item-135834" class="wpqa-menu wpqa-poll-nav menu-item menu-item-type-custom menu-item-object-custom menu-item-135834 li-poll"><a class=""  href="https://respostas.sebrae.com.br/perguntas/?type=poll"><i class="icon-megaphone"></i>Enquetes</a></li>
+<li id="menu-item-135835" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135835"><a class=""  href="https://respostas.sebrae.com.br/tags/"><i class="icon-tag"></i>Tags</a></li>
+<li id="menu-item-135837" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135837"><a class=""  href="https://respostas.sebrae.com.br/selos/"><i class="icon-trophy"></i>Selos</a></li>
+<li id="menu-item-135836" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135836"><a class=""  href="https://respostas.sebrae.com.br/users/"><i class="icon-users"></i>Usuários</a></li>
+</ul>				<div class="mobile--top post-search">
+					<form role="search" method="get" class="searchform main-search-form" action="https://respostas.sebrae.com.br/busca/">
+						<div class="row row-warp">
+							<div class="col col10">
+								<input type="search" class='live-search' autocomplete='off' name="search" value="Digite aqui sua busca ..." onfocus="if(this.value=='Digite aqui sua busca ...')this.value='';" onblur="if(this.value=='')this.value='Digite aqui sua busca ...';">
+																	<div class="loader_2 search_loader"></div>
+									<div class="search-results results-empty"></div>
+																<input type="hidden" name="search_type" class="search_type" value="questions">
+							</div><!-- End col6 -->
+							<div class="wpqa_form col col2">
+								<input type="submit" class="button-default" value="Procurar">
+							</div><!-- End col6 -->
+						</div><!-- End row -->
+					</form>
+				</div>
+					</div><!-- End mobile-aside-inner-inner -->
+	</div><!-- End mobile-aside-inner -->
+</aside><!-- End mobile-aside -->	<div class="main-content">
+		<div class="discy-inner-content main_sidebar main_right">
+						<div class="the-main-container the-wrap-container">
+				<main class="all-main-wrap discy-site-content float_l">
+					<div class="the-main-inner float_l">
+						<div class="breadcrumbs d-flex align-items-center justify-content-between w-100 mb-4 breadcrumbs_1"><div class="breadcrumbs-wrap d-flex align-items-center justify-content-between w-100">
+					<div class="breadcrumb-left"><span class="crumbs">
+							<span class="breadcrumb-item" itemscope itemtype="https://schema.org/BreadcrumbList">
+								<span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+			<meta itemprop="position" content="1"><a itemprop="item" href="https://respostas.sebrae.com.br/" title="Home" data-wpel-link="internal" target="_self" rel="noopener noreferrer"><span itemprop="name"><i class="icon-home font-xl mr-2"></i>Home</span></a></span><span class="crumbs-span">/</span><span class="current" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+			<meta itemprop="position" content="2"><a itemprop="item" href="https://respostas.sebrae.com.br/category/educacao-financeira-2/" title="Educação financeira" data-wpel-link="internal" target="_self" rel="noopener noreferrer"><span itemprop="name">Educação financeira</span></a></span><span class="crumbs-span">/</span><span class="current">O que é educação financeira e como desenvolver essa área na sua vida?</span></span>
+						</span></div><!-- End breadcrumb-left --><div class="breadcrumb-right d-flex align-items-center"><div class="clearfix"></div>
+						</div><!-- End breadcrumb-right --></div><!-- End breadcrumbs-wrap --></div><!-- End breadcrumbs --><div class="wpqa-session-message"></div>						<div class="clearfix"></div>		<div class="post-articles">
+							<div class="activate-post-stats page-visits-post" data-nonce="512a3202c0" data-id="82677"></div>
+				<section class="loop-section">
+								<h2 class="screen-reader-text">Sebrae Respostas Latest Articles</h2>
+						<div class="post-articles articles-no-pagination">
+									<article id="post-82677" class="article-post article-post-only clearfix post-style-1 post-82677 post type-post status-publish format-standard has-post-thumbnail hentry category-educacao-financeira-2 tag-dinheiro tag-educacao-financeira tag-financas-3 tag-planejamento-financeiro">
+					<div class="single-inner-content">
+									<header class="article-header">
+																<div class="post-meta">
+										<span class="post-date">De:<span class="date-separator"></span> <span class="entry-date published">abril 26, 2020</span></span><span class="byline"> <span class="post-cat">Postado em <a href="https://respostas.sebrae.com.br/category/educacao-financeira-2/" rel="category tag noopener noreferrer" data-wpel-link="internal" target="_self">Educação financeira</a></span></span>				<span class="post-comment">
+					Comentário					<a href="https://respostas.sebrae.com.br/o-que-e-afinal-educacao-financeira-e-como-desenvolver-essa-area-na-sua-vida/#comments" data-wpel-link="internal" target="_self" rel="noopener noreferrer">
+						0					</a>
+				</span>
+						<span class="post-views">
+				Visualizações: 2.883			</span>
+											</div>
+									<h1 class="post-title">O que é educação financeira e como desenvolver essa área na sua vida?</h1><a class="post-author" rel="author noopener noreferrer" href="https://respostas.sebrae.com.br/profile/tucailha/" data-wpel-link="internal" target="_self">tucailha</a><figure class="featured-image post-img">
+			<a href="https://respostas.sebrae.com.br/o-que-e-afinal-educacao-financeira-e-como-desenvolver-essa-area-na-sua-vida/" title="O que é educação financeira e como desenvolver essa área na sua vida?" rel="bookmark noopener noreferrer" data-wpel-link="internal" target="_self">
+	<img alt='O que é educação financeira e como desenvolver essa área na sua vida?' width='959' height='615' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20959%20615'%3E%3C/svg%3E" data-lazy-src="https://respostas.sebrae.com.br/wp-content/uploads/2020/04/educação-financeira-959x615.jpg"><noscript><img alt='O que é educação financeira e como desenvolver essa área na sua vida?' width='959' height='615' src='https://respostas.sebrae.com.br/wp-content/uploads/2020/04/educação-financeira-959x615.jpg'></noscript>		</a>
+	</figure>						</header>
+								
+			<div class="post-wrap-content post-content ">
+				<div class="post-content-text">
+							<div data-elementor-type="wp-post" data-elementor-id="82677" class="elementor elementor-82677">
+						<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4fb17fb8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4fb17fb8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5f7e8dd7" data-id="5f7e8dd7" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-411d6783 elementor-widget elementor-widget-text-editor" data-id="411d6783" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p><img fetchpriority="high" decoding="async" width="1280" height="720" class="aligncenter size-full wp-image-82672" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20720'%3E%3C/svg%3E" alt="educação financeira " data-lazy-srcset="https://respostas.sebrae.com.br/wp-content/uploads/2020/04/Educacao-financeira.jpg 1280w, https://respostas.sebrae.com.br/wp-content/uploads/2020/04/Educacao-financeira-300x169.jpg 300w, https://respostas.sebrae.com.br/wp-content/uploads/2020/04/Educacao-financeira-1024x576.jpg 1024w, https://respostas.sebrae.com.br/wp-content/uploads/2020/04/Educacao-financeira-768x432.jpg 768w" data-lazy-sizes="(max-width: 1280px) 100vw, 1280px" data-lazy-src="https://respostas.sebrae.com.br/wp-content/uploads/2020/04/Educacao-financeira.jpg" /><noscript><img fetchpriority="high" decoding="async" width="1280" height="720" class="aligncenter size-full wp-image-82672" src="https://respostas.sebrae.com.br/wp-content/uploads/2020/04/Educacao-financeira.jpg" alt="educação financeira " srcset="https://respostas.sebrae.com.br/wp-content/uploads/2020/04/Educacao-financeira.jpg 1280w, https://respostas.sebrae.com.br/wp-content/uploads/2020/04/Educacao-financeira-300x169.jpg 300w, https://respostas.sebrae.com.br/wp-content/uploads/2020/04/Educacao-financeira-1024x576.jpg 1024w, https://respostas.sebrae.com.br/wp-content/uploads/2020/04/Educacao-financeira-768x432.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" /></noscript></p><p>Crises econômicas ou tempos de desemprego não são problemas apenas conhecidos pelos brasileiros. Há momentos em que a economia de um país passa por mudanças e crises. Não apenas isso, pessoalmente nós podemos passar por períodos de desemprego, vulnerabilidades ou mudanças.</p><p>Neste artigo falaremos sobre o conceito e a importância da educação financeira na vida. Esse é um tipo de conhecimento que pode ser útil para todos os momentos, permitindo que você invista ou mantenha economias para momentos de maior necessidade.</p><h2><span style="color: #000000"><strong>Significado de educação financeira</strong></span></h2><p>A educação financeira precisa fazer parte do nosso dia a dia pois é a habilidade de organizar a vida econômica de acordo com metas e objetivos. O conceito de educação financeira é muito mais amplo do que aprender a economizar. Na verdade, é também uma maneira de buscar uma melhor qualidade de vida, além de conseguir cuidar do seu dinheiro da melhor maneira.</p><p>Através da educação financeira você poderá:</p><p>&#8211; Evitar dívidas no cartão de crédito ou com juros altos que podem ser feitas sem que você tenha o dinheiro no momento.</p><p>&#8211; Permitir que você analise seus objetivos prioritários e também que se planeje.</p><p>&#8211; A educação financeira também é essencial para que uma pessoa de fato consiga se organizar de forma a equilibrar as contas e até poder investir para o futuro.</p><h3><span style="color: #000000"><strong>Importante: Não existem soluções imediatas ou milagres</strong></span></h3><p>Para organizar sua vida financeira, será necessária uma preparação prévia muitas vezes até a realização de cursos. Quanto melhor preparado(a) você estiver, com mais detalhamento será possível organizar sua vida financeira.</p><h3><span style="color: #000000"><strong>A educação financeira é essencial</strong></span></h3><p>Se uma pessoa quiser ter suas finanças organizadas e evitar dívidas, é ideal que faça algum curso de educação financeira. Além disso, que se informe sobre como economizar dinheiro e toda a organização pessoal envolvida nesse processo.</p><h2><span style="color: #000000"><strong>Por que a educação financeira é tão importante?</strong></span></h2><p>Vamos falar adiante sobre a importância de ter uma educação financeira não somente para equilibrar as contas no final do mês. Você se surpreenderá com o quanto será possível se beneficiar com um processo de organização de suas finanças. Através de um planejamento adequado, você obterá diversas soluções para sua vida. Vejamos adiante alguns motivos que mostram a importância da educação financeira para uma pessoa.</p><h3><span style="color: #000000"><strong>Livre-se das dívidas em primeiro lugar</strong></span></h3><p>Há pessoas que acabam sempre se enrolando em dívidas, muitas vezes por conta de parcelamentos no cartão de crédito e cheque especial. Lembre-se de que o seu cartão de crédito não representa um dinheiro que você tem na hora. Ele serve para um momento de emergência ou necessidade.</p><h3><span style="color: #000000"><strong>A educação financeira pode ajudar a evitar gastos que não são importantes</strong></span></h3><p>Muitas pessoas que não têm um <a href="https://blog.rico.com.vc/planejamento-financeiro-pessoal-poderoso" target="_blank" data-wpel-link="external" rel="follow external noopener noreferrer">planejamento financeiro</a> acabam comprando por impulso. Uma organização dessas necessidades de gastos ajuda muito a controlar o impulso de comprar alguma novidade que apareça no mercado e que talvez você não necessite de verdade.</p><h3><span style="color: #000000"><strong>A educação financeira lhe ajudará a traçar metas</strong></span></h3><p>Há diversas pessoas que por não saberem como economizar ou investir adequadamente também não conseguem se planejar financeiramente. Isso será importante caso você queira fazer algum curso, adquirir um imóvel ou um carro, por exemplo. Uma pessoa que poupa e se planeja é capaz de comprar esse tipo de bem à vista sem precisar se endividar.</p><h2><span style="color: #000000"><strong>O que é segurança financeira, independência e liberdade?</strong></span></h2><p>A segurança financeira implica na quantia de dinheiro que foi investida e que pode gerar renda em um momento de necessidade. Nem sempre o fato de ter um bom salário e um nome limpo na praça é indicativo de que alguém tem a segurança financeira.</p><h3><span style="color: #000000"><strong>Independência e liberdade nas finanças</strong></span></h3><p>Podemos considerar que a <a href="https://financaseseguros.com/category/financas/" class="broken_link" data-wpel-link="external" target="_blank" rel="follow external noopener noreferrer">independência financeira</a> seja a capacidade de ter recursos para adquirir o que você precisa. Além disso, para investir o seu dinheiro de acordo com as suas necessidades. Já a liberdade financeira está relacionada à independência, mas também significa uma possibilidade de realizar determinadas ações de acordo com a vontade e metas. Para ter esse tipo de liberdade você também precisará ter uma preparação prévia em educação financeira.</p><h2><span style="color: #000000"><strong>Como posso melhorar a minha educação financeira? Dicas e conselhos</strong></span></h2><p>Para melhorar sua <a href="https://financaseseguros.com/como-fazer-um-investimento-financeiro/" class="broken_link" data-wpel-link="external" target="_blank" rel="follow external noopener noreferrer">educação financeira</a> você precisa procurar informações, livros, estudar e obter conselhos de especialistas.<br />Adiante vejamos três dicas e recomendações essenciais para você melhorar na educação financeira:</p><p>1- Pesquise na Internet e siga perfis especializados que compartilham dicas de <a href="https://financaseseguros.com/" data-wpel-link="external" target="_blank" rel="follow external noopener noreferrer">organização financeira</a>, economia, negócios e investimentos.</p><p>2- Há livros que são muitíssimos bons para quem está começando a estudar sobre o assunto e também para investidores com mais experiência.</p><p>3- Pesquise sobre palestras de educação financeira realizados em sua cidade. Você pode verificar através do Google e Associações Comerciais.</p><p>4- Estude sobre negócios e maneiras de empreender online. Tenha interesse em ter novas fontes de renda.</p><h2><span style="color: #000000"><strong>Recomendações de livros sobre educação financeira</strong></span></h2><p>Neste último tópico indicaremos os melhores livros de educação financeira que você precisa ter para começar. Esses são considerados <em>best-sellers</em> e muito importantes independente qual seja o seu nível de conhecimentos sobre investimentos e finanças.</p><h3><span style="color: #000000"><strong>Pai Rico, Pai Pobre – Robert Kiyosaki</strong></span></h3><p>Esse livro é um clássico há duas décadas, considerado um dos melhores livros de educação financeira já escritos</p><h3><span style="color: #000000"><strong>Os Segredos da Mente Milionária – T. Harv Eker</strong></span></h3><p>Outro best-seller que chegou à marca de 1,5 milhão de exemplares vendidos e que lhe ensinará como mudar seu subconsciente para aprender a crescer financeiramente.</p><h3><span style="color: #000000"><strong>Me Poupe! 10 Passos Para Nunca Mais Faltar Dinheiro no Seu Bolso – Nathalia Arcuri</strong></span></h3><p>A Nathalia Arcuri é uma influenciadora digital na área de finanças, criadora do maior canal sobre educação financeira do Youtube e também um grande exemplo de sucesso do marketing digital brasileiro. O seu livro é relativamente novo em relação aos outros indicados acima, porém já encontra-se nas melhores listas de indicações para iniciantes no assunto. O material contém informações básicas e com linguagem bastante fácil de entender para quem deseja iniciar a educação financeira</p><h3><span style="color: #000000"><strong>Como organizar sua vida financeira – Gustavo Cerbasi</strong></span></h3><p>Esse livro é do mesmo autor do best-seller Casais Inteligentes Enriquecem Juntos. O escritor do livro é muito respeitado no Brasil quando o assunto é educação financeira pois é capaz de oferecer uma didática perfeita para quem quiser ter uma vida econômica mais satisfatória.</p><h4><span style="color: #000000"><strong>A importância de encontrar uma corretora confiável</strong></span></h4><p>Caso você escolha fazer suas operações será preciso escolher um broker. Assim, se você precisar de assistência ou aconselhamentos ou sistema para investir certifique-se de procurar uma corretora com as referências adequadas. Isso pode fazer bastante diferença.</p><h2><span style="color: #000000"><strong>Concluindo</strong></span></h2><p>Neste artigo compartilhamos informações completas sobre educação financeira. Analisamos o conceito, a importância de ter uma organização financeira na sua vida, indicamos livros e conteúdos importantes para iniciantes e experientes. Você gostou das dicas compartilhadas aqui? Não se esqueça de deixar o seu <em>like</em> e enviar essas importantes noções a todos os seus amigos.</p><h2><span style="color: #000000"><strong>Nossas Referências</strong></span></h2><h2> </h2><ul><li style="list-style-type: none"><ul><li>FINANÇAS: <a href="https://financaseseguros.com/" data-wpel-link="external" target="_blank" rel="follow external noopener noreferrer">https://financaseseguros.com/</a></li><li>WIKIPEDIA. Educação Financeira. Disponível em: <a href="https://pt.wikipedia.org/wiki/Educa%C3%A7%C3%A3o_financeira" target="_blank" data-wpel-link="external" rel="follow external noopener noreferrer">https://pt.wikipedia.org/wiki/Educa%C3%A7%C3%A3o_financeira</a></li><li>BLOG MONETUS. 8 livros sobre educação financeira e investimentos. Disponível em: &lt;<a href="https://blog.monetus.com.br/8-livros-sobre-educacao-financeira-e-investimentos/" target="_blank" class="broken_link" data-wpel-link="external" rel="follow external noopener noreferrer">https://blog.monetus.com.br/8-livros-sobre-educacao-financeira-e-investimentos/</a></li></ul></li></ul>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+									</div>
+			</div>
+					</div>
+						</div>
+								<div class="tagcloud"><a href="https://respostas.sebrae.com.br/tag/dinheiro/" data-wpel-link="internal" target="_self" rel="noopener noreferrer">dinheiro</a><a href="https://respostas.sebrae.com.br/tag/educacao-financeira/" data-wpel-link="internal" target="_self" rel="noopener noreferrer">Educação Financeira</a><a href="https://respostas.sebrae.com.br/tag/financas-3/" data-wpel-link="internal" target="_self" rel="noopener noreferrer">finanças</a><a href="https://respostas.sebrae.com.br/tag/planejamento-financeiro/" data-wpel-link="internal" target="_self" rel="noopener noreferrer">planejamento financeiro</a></div>			</div>
+			
+							<footer>
+								<div class="post-share">
+				<span><i class="icon-share"></i><span>Compartilhe esse artigo</span></span>
+				<ul class="social-icons list-unstyled mb-0 d-flex align-items-center">
+												<li class="share-facebook">
+								<a target="_blank" href="http://www.facebook.com/sharer.php?u=https://respostas.sebrae.com.br/o-que-e-afinal-educacao-financeira-e-como-desenvolver-essa-area-na-sua-vida/&amp;t=O+que+%C3%A9+educa%C3%A7%C3%A3o+financeira+e+como+desenvolver+essa+%C3%A1rea+na+sua+vida%3F" data-wpel-link="external" rel="follow external noopener noreferrer">
+									<i class="icon-facebook"></i><span> <span>Facebook</span></span>
+								</a>
+							</li>
+													<li class="share-twitter">
+								<a target="_blank" href="http://twitter.com/share?text=O+que+%C3%A9+educa%C3%A7%C3%A3o+financeira+e+como+desenvolver+essa+%C3%A1rea+na+sua+vida%3F&amp;url=https://respostas.sebrae.com.br/o-que-e-afinal-educacao-financeira-e-como-desenvolver-essa-area-na-sua-vida/" data-wpel-link="external" rel="follow external noopener noreferrer">
+									<i class="icon-twitter"></i><span></span>
+								</a>
+							</li>
+													<li class="share-linkedin">
+								<a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://respostas.sebrae.com.br/o-que-e-afinal-educacao-financeira-e-como-desenvolver-essa-area-na-sua-vida/&amp;title=O+que+%C3%A9+educa%C3%A7%C3%A3o+financeira+e+como+desenvolver+essa+%C3%A1rea+na+sua+vida%3F" data-wpel-link="external" rel="follow external noopener noreferrer">
+									<i class="icon-linkedin"></i><span></span>
+								</a>
+							</li>
+													<li class="share-whatsapp">
+								<a target="_blank" href="https://api.whatsapp.com/send?text=O+que+%C3%A9+educa%C3%A7%C3%A3o+financeira+e+como+desenvolver+essa+%C3%A1rea+na+sua+vida%3F - https://respostas.sebrae.com.br/o-que-e-afinal-educacao-financeira-e-como-desenvolver-essa-area-na-sua-vida/" data-wpel-link="external" rel="follow external noopener noreferrer">
+									<i class="fab fa-whatsapp"></i><span></span>
+								</a>
+							</li>
+										</ul>
+			</div><!-- End post-share -->
+						</footer>
+					</div><!-- End single-inner-content -->
+	<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Article","dateCreated":"2020-04-26T16:29:03-03:00","datePublished":"2020-04-26T16:29:03-03:00","dateModified":"2020-04-29T17:35:08-03:00","headline":"O que \u00e9 educa\u00e7\u00e3o financeira e como desenvolver essa \u00e1rea na sua vida?","name":"O que \u00e9 educa\u00e7\u00e3o financeira e como desenvolver essa \u00e1rea na sua vida?","keywords":"dinheiro,Educa\u00e7\u00e3o Financeira,finan\u00e7as,planejamento financeiro","url":"https:\/\/respostas.sebrae.com.br\/o-que-e-afinal-educacao-financeira-e-como-desenvolver-essa-area-na-sua-vida\/","description":"Crises econ\u00f4micas ou tempos de desemprego n\u00e3o s\u00e3o problemas apenas conhecidos pelos brasileiros. H\u00e1 momentos em que a economia de um pa\u00eds passa por mudan\u00e7as e crises. N\u00e3o apenas isso, pessoalmente n\u00f3s","copyrightYear":"2020","articleSection":"Educa\u00e7\u00e3o financeira","articleBody":"Crises econ\u00f4micas ou tempos de desemprego n\u00e3o s\u00e3o problemas apenas conhecidos pelos brasileiros. H\u00e1 momentos em que a economia de um pa\u00eds passa por mudan\u00e7as e crises. N\u00e3o apenas isso, pessoalmente n\u00f3s podemos passar por per\u00edodos de desemprego, vulnerabilidades ou mudan\u00e7as.Neste artigo falaremos sobre o conceito e a import\u00e2ncia da educa\u00e7\u00e3o financeira na vida. Esse \u00e9 um tipo de conhecimento que pode ser \u00fatil para todos os momentos, permitindo que voc\u00ea invista ou mantenha economias para momentos de maior necessidade.Significado de educa\u00e7\u00e3o financeiraA educa\u00e7\u00e3o financeira precisa fazer parte do nosso dia a dia pois \u00e9 a habilidade de organizar a vida econ\u00f4mica de acordo com metas e objetivos. O conceito de educa\u00e7\u00e3o financeira \u00e9 muito mais amplo do que aprender a economizar. Na verdade, \u00e9 tamb\u00e9m uma maneira de buscar uma melhor qualidade de vida, al\u00e9m de conseguir cuidar do seu dinheiro da melhor maneira.Atrav\u00e9s da educa\u00e7\u00e3o financeira voc\u00ea poder\u00e1:- Evitar d\u00edvidas no cart\u00e3o de cr\u00e9dito ou com juros altos que podem ser feitas sem que voc\u00ea tenha o dinheiro no momento.- Permitir que voc\u00ea analise seus objetivos priorit\u00e1rios e tamb\u00e9m que se planeje.- A educa\u00e7\u00e3o financeira tamb\u00e9m \u00e9 essencial para que uma pessoa de fato consiga se organizar de forma a equilibrar as contas e at\u00e9 poder investir para o futuro.Importante: N\u00e3o existem solu\u00e7\u00f5es imediatas ou milagresPara organizar sua vida financeira, ser\u00e1 necess\u00e1ria uma prepara\u00e7\u00e3o pr\u00e9via muitas vezes at\u00e9 a realiza\u00e7\u00e3o de cursos. Quanto melhor preparado(a) voc\u00ea estiver, com mais detalhamento ser\u00e1 poss\u00edvel organizar sua vida financeira.A educa\u00e7\u00e3o financeira \u00e9 essencialSe uma pessoa quiser ter suas finan\u00e7as organizadas e evitar d\u00edvidas, \u00e9 ideal que fa\u00e7a algum curso de educa\u00e7\u00e3o financeira. Al\u00e9m disso, que se informe sobre como economizar dinheiro e toda a organiza\u00e7\u00e3o pessoal envolvida nesse processo.Por que a educa\u00e7\u00e3o financeira \u00e9 t\u00e3o importante?Vamos falar adiante sobre a import\u00e2ncia de ter uma educa\u00e7\u00e3o financeira n\u00e3o somente para equilibrar as contas no final do m\u00eas. Voc\u00ea se surpreender\u00e1 com o quanto ser\u00e1 poss\u00edvel se beneficiar com um processo de organiza\u00e7\u00e3o de suas finan\u00e7as. Atrav\u00e9s de um planejamento adequado, voc\u00ea obter\u00e1 diversas solu\u00e7\u00f5es para sua vida. Vejamos adiante alguns motivos que mostram a import\u00e2ncia da educa\u00e7\u00e3o financeira para uma pessoa.Livre-se das d\u00edvidas em primeiro lugarH\u00e1 pessoas que acabam sempre se enrolando em d\u00edvidas, muitas vezes por conta de parcelamentos no cart\u00e3o de cr\u00e9dito e cheque especial. Lembre-se de que o seu cart\u00e3o de cr\u00e9dito n\u00e3o representa um dinheiro que voc\u00ea tem na hora. Ele serve para um momento de emerg\u00eancia ou necessidade.A educa\u00e7\u00e3o financeira pode ajudar a evitar gastos que n\u00e3o s\u00e3o importantesMuitas pessoas que n\u00e3o t\u00eam um\u00a0planejamento financeiro\u00a0acabam comprando por impulso. Uma organiza\u00e7\u00e3o dessas necessidades de gastos ajuda muito a controlar o impulso de comprar alguma novidade que apare\u00e7a no mercado e que talvez voc\u00ea n\u00e3o necessite de verdade.A educa\u00e7\u00e3o financeira lhe ajudar\u00e1 a tra\u00e7ar metasH\u00e1 diversas pessoas que por n\u00e3o saberem como economizar ou investir adequadamente tamb\u00e9m n\u00e3o conseguem se planejar financeiramente. Isso ser\u00e1 importante caso voc\u00ea queira fazer algum curso, adquirir um im\u00f3vel ou um carro, por exemplo. Uma pessoa que poupa e se planeja \u00e9 capaz de comprar esse tipo de bem \u00e0 vista sem precisar se endividar.O que \u00e9 seguran\u00e7a financeira, independ\u00eancia e liberdade?A seguran\u00e7a financeira implica na quantia de dinheiro que foi investida e que pode gerar renda em um momento de necessidade. Nem sempre o fato de ter um bom sal\u00e1rio e um nome limpo na pra\u00e7a \u00e9 indicativo de que algu\u00e9m tem a seguran\u00e7a financeira.Independ\u00eancia e liberdade nas finan\u00e7asPodemos considerar que a\u00a0independ\u00eancia financeira\u00a0seja a capacidade de ter recursos para adquirir o que voc\u00ea precisa. Al\u00e9m disso, para investir o seu dinheiro de acordo com as suas necessidades. J\u00e1 a liberdade financeira est\u00e1 relacionada \u00e0 independ\u00eancia, mas tamb\u00e9m significa uma possibilidade de realizar determinadas a\u00e7\u00f5es de acordo com a vontade e metas. Para ter esse tipo de liberdade voc\u00ea tamb\u00e9m precisar\u00e1 ter uma prepara\u00e7\u00e3o pr\u00e9via em educa\u00e7\u00e3o financeira.Como posso melhorar a minha educa\u00e7\u00e3o financeira? Dicas e conselhosPara melhorar sua\u00a0educa\u00e7\u00e3o financeira\u00a0voc\u00ea precisa procurar informa\u00e7\u00f5es, livros, estudar e obter conselhos de especialistas.Adiante vejamos tr\u00eas dicas e recomenda\u00e7\u00f5es essenciais para voc\u00ea melhorar na educa\u00e7\u00e3o financeira:1- Pesquise na Internet e siga perfis especializados que compartilham dicas de organiza\u00e7\u00e3o financeira, economia, neg\u00f3cios e investimentos.2- H\u00e1 livros que s\u00e3o muit\u00edssimos bons para quem est\u00e1 come\u00e7ando a estudar sobre o assunto e tamb\u00e9m para investidores com mais experi\u00eancia.3- Pesquise sobre palestras de educa\u00e7\u00e3o financeira realizados em sua cidade. Voc\u00ea pode verificar atrav\u00e9s do Google e Associa\u00e7\u00f5es Comerciais.4- Estude sobre neg\u00f3cios e maneiras de empreender online. Tenha interesse em ter novas fontes de renda.Recomenda\u00e7\u00f5es de livros sobre educa\u00e7\u00e3o financeiraNeste \u00faltimo t\u00f3pico indicaremos os melhores livros de educa\u00e7\u00e3o financeira que voc\u00ea precisa ter para come\u00e7ar. Esses s\u00e3o considerados\u00a0best-sellers\u00a0e muito importantes independente qual seja o seu n\u00edvel de conhecimentos sobre investimentos e finan\u00e7as.Pai Rico, Pai Pobre \u2013 Robert KiyosakiEsse livro \u00e9 um cl\u00e1ssico h\u00e1 duas d\u00e9cadas, considerado um dos melhores livros de educa\u00e7\u00e3o financeira j\u00e1 escritosOs Segredos da Mente Milion\u00e1ria \u2013 T. Harv EkerOutro best-seller que chegou \u00e0 marca de 1,5 milh\u00e3o de exemplares vendidos e que lhe ensinar\u00e1 como mudar seu subconsciente para aprender a crescer financeiramente.Me Poupe! 10 Passos Para Nunca Mais Faltar Dinheiro no Seu Bolso \u2013 Nathalia ArcuriA Nathalia Arcuri \u00e9 uma influenciadora digital na \u00e1rea de finan\u00e7as, criadora do maior canal sobre educa\u00e7\u00e3o financeira do Youtube e tamb\u00e9m um grande exemplo de sucesso do\u00a0marketing digital\u00a0brasileiro. O seu livro \u00e9 relativamente novo em rela\u00e7\u00e3o aos outros indicados acima, por\u00e9m j\u00e1 encontra-se nas melhores listas de indica\u00e7\u00f5es para iniciantes no assunto. O material cont\u00e9m informa\u00e7\u00f5es b\u00e1sicas e com linguagem bastante f\u00e1cil de entender para quem deseja iniciar a educa\u00e7\u00e3o financeiraComo organizar sua vida financeira \u2013 Gustavo CerbasiEsse livro \u00e9 do mesmo autor do best-seller\u00a0Casais Inteligentes Enriquecem Juntos. O escritor do livro \u00e9 muito respeitado no Brasil quando o assunto \u00e9 educa\u00e7\u00e3o financeira pois \u00e9 capaz de oferecer uma did\u00e1tica perfeita para quem quiser ter uma vida econ\u00f4mica mais satisfat\u00f3ria.A import\u00e2ncia de encontrar uma corretora confi\u00e1velCaso voc\u00ea escolha fazer suas opera\u00e7\u00f5es ser\u00e1 preciso escolher um broker. Assim, se voc\u00ea precisar de assist\u00eancia ou aconselhamentos ou sistema para investir certifique-se de procurar uma corretora com as refer\u00eancias adequadas. Isso pode fazer bastante diferen\u00e7a.ConcluindoNeste artigo compartilhamos informa\u00e7\u00f5es completas sobre educa\u00e7\u00e3o financeira. Analisamos o conceito, a import\u00e2ncia de ter uma organiza\u00e7\u00e3o financeira na sua vida, indicamos livros e conte\u00fados importantes para iniciantes e experientes. Voc\u00ea gostou das dicas compartilhadas aqui? N\u00e3o se esque\u00e7a de deixar o seu\u00a0like\u00a0e enviar essas importantes no\u00e7\u00f5es a todos os seus amigos.Nossas Refer\u00eancias\u00a0FINAN\u00c7AS: https:\/\/financaseseguros.com\/WIKIPEDIA. Educa\u00e7\u00e3o Financeira. Dispon\u00edvel em:\u00a0https:\/\/pt.wikipedia.org\/wiki\/Educa%C3%A7%C3%A3o_financeiraBLOG MONETUS. 8 livros sobre educa\u00e7\u00e3o financeira e investimentos. Dispon\u00edvel em: &lt;https:\/\/blog.monetus.com.br\/8-livros-sobre-educacao-financeira-e-investimentos\/","publisher":{"@id":"#Publisher","@type":"Organization","name":"Sebrae Respostas","logo":{"@type":"ImageObject","url":"https:\/\/respostas.sebrae.com.br\/wp-content\/uploads\/2021\/04\/logo-sebrae-respostas-discy-1.png"}},"sourceOrganization":{"@id":"#Publisher"},"copyrightHolder":{"@id":"#Publisher"},"mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/respostas.sebrae.com.br\/o-que-e-afinal-educacao-financeira-e-como-desenvolver-essa-area-na-sua-vida\/"},"author":{"@type":"Person","name":"tucailha","url":"https:\/\/respostas.sebrae.com.br\/profile\/tucailha\/"},"image":{"@type":"ImageObject","url":"https:\/\/respostas.sebrae.com.br\/wp-content\/uploads\/2020\/04\/educa\u00e7\u00e3o-financeira.jpg","width":721,"height":501}}</script>		</article><!-- End article -->
+	<div id="respond"><div class="alert-message alert-message-warning"><i class="icon-flag"></i><p>You must login to add a comment.</p></div><div class="wpqa_login_social">    <div class='apsl-login-networks theme-4 clearfix'>
+                                <div class='social-networks'>
+                                <a href="https://respostas.sebrae.com.br/entrar/?apsl_login_id=facebook_login&amp;state=cmVkaXJlY3RfdG89aHR0cHMlM0ElMkYlMkZyZXNwb3N0YXMuc2VicmFlLmNvbS5iciUzQTQ0MyUyRm8tcXVlLWUtYWZpbmFsLWVkdWNhY2FvLWZpbmFuY2VpcmEtZS1jb21vLWRlc2Vudm9sdmVyLWVzc2EtYXJlYS1uYS1zdWEtdmlkYSUyRg==" title="Login com facebook" data-wpel-link="internal" target="_self" rel="noopener noreferrer">
+                        <div class="apsl-icon-block icon-facebook">
+                                                    <i class="fa fa-facebook"></i>
+                                                    <span class="apsl-login-text">Login</span>
+                            <span class="apsl-long-login-text">Login com facebook</span>
+                        </div>
+                    </a>
+                                        <a href="https://respostas.sebrae.com.br/entrar/?apsl_login_id=google_login&amp;state=cmVkaXJlY3RfdG89aHR0cHMlM0ElMkYlMkZyZXNwb3N0YXMuc2VicmFlLmNvbS5iciUzQTQ0MyUyRm8tcXVlLWUtYWZpbmFsLWVkdWNhY2FvLWZpbmFuY2VpcmEtZS1jb21vLWRlc2Vudm9sdmVyLWVzc2EtYXJlYS1uYS1zdWEtdmlkYSUyRg==" title="Login com google" data-wpel-link="internal" target="_self" rel="noopener noreferrer">
+                        <div class="apsl-icon-block icon-google">
+                                                    <i class="fa fa-google"></i>
+                                                    <span class="apsl-login-text">Login</span>
+                            <span class="apsl-long-login-text">Login com google</span>
+                        </div>
+                    </a>
+                            </div>
+    </div>
+<div class="wpqa_login_social_div"><span>ou use</span></div>
+				</div><form class="wpqa_form login-form wpqa_login wpqa-no-ajax" method="post">
+				
+				<div class="wpqa_error_desktop"><div class="wpqa_error"></div></div>
+				
+				<div class="form-inputs clearfix">
+					<p class="login-text">
+						<label for="username_316">Nome de perfil ou e-mail<span class="required">*</span></label>
+						<input id="username_316" class="required-item form-control" autocomplete="username" type="text" name="log" value="">
+						<i class="icon-user"></i>
+					</p>
+					<p class="login-password">
+						<label for="password_316">Senha<span class="required">*</span></label>
+						<input id="password_316" class="required-item form-control" autocomplete="current-password" type="password" name="pwd">
+						<i class="icon-lock-open"></i>
+					</p>
+					
+				</div>
+				
+				<div class="d-flex align-items-center justify-content-between mb-4 login-form-data">
+					<div class="wpqa_checkbox_p rememberme normal_label d-flex align-items-center mb-1">
+						<label class="mb-0"><span class="wpqa_checkbox"><input type="checkbox" name="rememberme" value="forever" checked="checked"></span> <span class="wpqa_checkbox_span">Lembre-me a senha!</span></label>
+					</div>
+					
+					<a href="https://respostas.sebrae.com.br/lost-password/" class="font-weight-bold color-dark mb-1 lost-password" data-wpel-link="internal" target="_self" rel="noopener noreferrer">Esqueceu a senha?</a>
+				</div>
+
+				<div class="clearfix"></div>
+				<div class="wpqa_error_mobile"><div class="wpqa_error"></div></div>
+
+				<p class="form-submit login-submit d-flex align-items-center justify-content-between mb-0">
+					<span class="load_span"><span class="loader_2"></span></span>
+					<input type="submit" value="Login" class="button-default login-submit">
+				</p>
+				
+				<input type="hidden" name="redirect_to" value="https://respostas.sebrae.com.br/o-que-e-afinal-educacao-financeira-e-como-desenvolver-essa-area-na-sua-vida/">
+				<input type="hidden" name="form_type" value="wpqa-login">
+				<input type="hidden" name="action" value="wpqa_ajax_login_process">
+				
+			</form><div class="pop-footer pop-footer-comments">Se ainda não tem uma conta, <a href="https://respostas.sebrae.com.br/signup/" class="signup-panel" data-wpel-link="internal" target="_self" rel="noopener noreferrer">Cadastre-se Aqui</a></div></div>	<div class="related-post">
+		<div class="post-inner">
+			<h3 class="section-title">Posts relacionados</h3>
+			<div class="row row-warp">						<div class="col col4">
+							<div class="clearfix post-253864 post type-post status-publish format-standard has-post-thumbnail hentry category-educacao-financeira-2 tag-dicas tag-educacao-financeira tag-empresas">
+								<div class="related-image">
+									<a href="https://respostas.sebrae.com.br/gestao-financeira-eficiente-dicas-para-empresarios/" data-wpel-link="internal" target="_self" rel="noopener noreferrer">
+										<img alt='Gestão Financeira Eficiente: Dicas para Empresários' width='256' height='150' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20256%20150'%3E%3C/svg%3E" data-lazy-src="https://respostas.sebrae.com.br/wp-content/uploads/2024/01/Captura-de-tela-2024-01-17-122128-256x150.png"><noscript><img alt='Gestão Financeira Eficiente: Dicas para Empresários' width='256' height='150' src='https://respostas.sebrae.com.br/wp-content/uploads/2024/01/Captura-de-tela-2024-01-17-122128-256x150.png'></noscript>									</a>
+								</div>
+																	<div class="post-meta clearfix">
+										<span class="post-date">De:<span class="date-separator"></span> <span class="entry-date published">janeiro 19, 2024</span></span>									</div>
+																<h2 class="post-title"><a class="post-title" href="https://respostas.sebrae.com.br/gestao-financeira-eficiente-dicas-para-empresarios/" title="Gestão Financeira Eficiente: Dicas para Empresários" rel="bookmark noopener noreferrer" data-wpel-link="internal" target="_self">Gestão Financeira Eficiente: Dicas para Empresários</a></h2>
+							</div>
+						</div>
+											<div class="col col4">
+							<div class="clearfix post-249397 post type-post status-publish format-standard has-post-thumbnail hentry category-educacao-financeira-2 tag-ativo-e-passivo tag-o-que-e-ativo-e-passivo">
+								<div class="related-image">
+									<a href="https://respostas.sebrae.com.br/entendendo-ativos-e-passivos-o-basico-da-contabilidade/" data-wpel-link="internal" target="_self" rel="noopener noreferrer">
+										<img alt='Entendendo Ativos e Passivos: O Básico da Contabilidade' width='256' height='150' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20256%20150'%3E%3C/svg%3E" data-lazy-src="https://respostas.sebrae.com.br/wp-content/uploads/2023/11/BLOG-1-256x150.jpg"><noscript><img alt='Entendendo Ativos e Passivos: O Básico da Contabilidade' width='256' height='150' src='https://respostas.sebrae.com.br/wp-content/uploads/2023/11/BLOG-1-256x150.jpg'></noscript>									</a>
+								</div>
+																	<div class="post-meta clearfix">
+										<span class="post-date">De:<span class="date-separator"></span> <span class="entry-date published">novembro 27, 2023</span></span>									</div>
+																<h2 class="post-title"><a class="post-title" href="https://respostas.sebrae.com.br/entendendo-ativos-e-passivos-o-basico-da-contabilidade/" title="Entendendo Ativos e Passivos: O Básico da Contabilidade" rel="bookmark noopener noreferrer" data-wpel-link="internal" target="_self">Entendendo Ativos e Passivos: O Básico da Contabilidade</a></h2>
+							</div>
+						</div>
+											<div class="col col4">
+							<div class="clearfix post-246517 post type-post status-publish format-standard has-post-thumbnail hentry category-educacao-financeira-2 tag-aposentadoria-da-dona-de-casa tag-segurado-faculativo">
+								<div class="related-image">
+									<a href="https://respostas.sebrae.com.br/garantindo-a-aposentadoria-como-donas-de-casa-podem-contribuir/" data-wpel-link="internal" target="_self" rel="noopener noreferrer">
+										<img alt='Garantindo a Aposentadoria: Como Donas de Casa Podem Contribuir' width='256' height='150' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20256%20150'%3E%3C/svg%3E" data-lazy-src="https://respostas.sebrae.com.br/wp-content/uploads/2023/10/sebrae-1-256x150.png"><noscript><img alt='Garantindo a Aposentadoria: Como Donas de Casa Podem Contribuir' width='256' height='150' src='https://respostas.sebrae.com.br/wp-content/uploads/2023/10/sebrae-1-256x150.png'></noscript>									</a>
+								</div>
+																	<div class="post-meta clearfix">
+										<span class="post-date">De:<span class="date-separator"></span> <span class="entry-date published">novembro 10, 2023</span></span>									</div>
+																<h2 class="post-title"><a class="post-title" href="https://respostas.sebrae.com.br/garantindo-a-aposentadoria-como-donas-de-casa-podem-contribuir/" title="Garantindo a Aposentadoria: Como Donas de Casa Podem Contribuir" rel="bookmark noopener noreferrer" data-wpel-link="internal" target="_self">Garantindo a Aposentadoria: Como Donas de Casa Podem Contribuir</a></h2>
+							</div>
+						</div>
+					</div>			<div class="clearfix"></div>
+		</div>
+	</div><!-- End related-post -->
+						</div><!-- End post-articles -->
+									<div class="clearfix"></div>
+			<div class="pagination-wrap pagination-post no-pagination-wrap">
+							</div>
+			</section><!-- End section -->
+		</div><!-- End post-articles -->
+													
+					</div><!-- End the-main-inner -->
+					<div class="hide-main-inner"></div>
+												<div class="hide-sidebar sidebar-width"><div class="hide-sidebar-inner"></div></div>
+							<aside class="sidebar sidebar-width float_l fixed-sidebar">
+								<h3 class="screen-reader-text">Sidebar</h3>
+								<div class="inner-sidebar">
+											<div class="widget card widget_ask">
+			<a target="_self" href="https://respostas.sebrae.com.br/add-question/" class="button-default btn btn__primary btn__block btn__semi__height wpqa-question" data-wpel-link="internal" rel="noopener noreferrer">Fazer uma pergunta</a>		</div>
+			<div class="widget card widget_ask">
+			<a target="_self" href="https://respostas.sebrae.com.br/postar-artigo/" class="button-default btn btn__primary btn__block btn__semi__height wpqa-post" data-wpel-link="internal" rel="noopener noreferrer">Postar Artigo no Blog</a>		</div>
+	<section id="widget_posts-2" class="widget widget-posts"><h2 class="widget-title"><i class="icon-folder"></i>Posts recentes</h2>			<div class="widget-wrap">
+				<div class="user-notifications user-profile-area questions-card widget-post-style-2 post-style-2-image">
+				<div>
+					<ul><li class="notifications__item question-item list-item-type-post  d-flex widget-posts-image widget-no-meta"><div class="widget-post-image"><a href="https://respostas.sebrae.com.br/5-dicas-de-marketing-digital-para-advogados-em-2024/" title="5 dicas de marketing digital para advogados em 2024" rel="bookmark noopener noreferrer" data-wpel-link="internal" target="_self"><img alt='5 dicas de marketing digital para advogados em 2024' width='229' height='155' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20229%20155'%3E%3C/svg%3E" data-lazy-src="https://respostas.sebrae.com.br/wp-content/uploads/2024/09/7449-2-229x155.webp"><noscript><img alt='5 dicas de marketing digital para advogados em 2024' width='229' height='155' src='https://respostas.sebrae.com.br/wp-content/uploads/2024/09/7449-2-229x155.webp'></noscript></a></div><div><h3 class="question__title"><a class="color-dark" href="https://respostas.sebrae.com.br/5-dicas-de-marketing-digital-para-advogados-em-2024/" title="5 dicas de marketing digital para advogados em 2024" rel="bookmark noopener noreferrer" data-wpel-link="internal" target="_self"><i class="icon-ios-paper-outline wpqa_hide"></i>5 dicas de marketing digital para advogados em 2024</a></h3></div>
+		</li><li class="notifications__item question-item list-item-type-post  d-flex widget-posts-image widget-no-meta"><div class="widget-post-image"><a href="https://respostas.sebrae.com.br/como-sair-das-dividas-e-recuperar-a-saude-financeira-em-2024/" title="Como Sair das Dívidas e Recuperar a Saúde Financeira Em 2024" rel="bookmark noopener noreferrer" data-wpel-link="internal" target="_self"><img alt='Como Sair das Dívidas e Recuperar a Saúde Financeira Em 2024' width='229' height='155' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20229%20155'%3E%3C/svg%3E" data-lazy-src="https://respostas.sebrae.com.br/wp-content/uploads/2024/09/Como-Sair-das-Dividas-e-Recuperar-a-Saude-Financeira-1-229x155.jpg"><noscript><img alt='Como Sair das Dívidas e Recuperar a Saúde Financeira Em 2024' width='229' height='155' src='https://respostas.sebrae.com.br/wp-content/uploads/2024/09/Como-Sair-das-Dividas-e-Recuperar-a-Saude-Financeira-1-229x155.jpg'></noscript></a></div><div><h3 class="question__title"><a class="color-dark" href="https://respostas.sebrae.com.br/como-sair-das-dividas-e-recuperar-a-saude-financeira-em-2024/" title="Como Sair das Dívidas e Recuperar a Saúde Financeira Em 2024" rel="bookmark noopener noreferrer" data-wpel-link="internal" target="_self"><i class="icon-ios-paper-outline wpqa_hide"></i>Como Sair das Dívidas e Recuperar a Saúde Financeira Em ...</a></h3></div>
+		</li><li class="notifications__item question-item list-item-type-post  d-flex widget-posts-image widget-no-meta"><div class="widget-post-image"><a href="https://respostas.sebrae.com.br/pensando-em-investir-no-mercado-de-energia-solar-fique-atento-aos-cuidados-de-ciberseguranca/" title="Pensando em investir no mercado de energia solar? Fique atento aos cuidados de cibersegurança!" rel="bookmark noopener noreferrer" data-wpel-link="internal" target="_self"><img alt='Pensando em investir no mercado de energia solar? Fique atento aos cuidados de cibersegurança!' width='229' height='155' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20229%20155'%3E%3C/svg%3E" data-lazy-src="https://respostas.sebrae.com.br/wp-content/uploads/2024/09/photovoltaic-4525178_1280-1-229x155.jpg"><noscript><img alt='Pensando em investir no mercado de energia solar? Fique atento aos cuidados de cibersegurança!' width='229' height='155' src='https://respostas.sebrae.com.br/wp-content/uploads/2024/09/photovoltaic-4525178_1280-1-229x155.jpg'></noscript></a></div><div><h3 class="question__title"><a class="color-dark" href="https://respostas.sebrae.com.br/pensando-em-investir-no-mercado-de-energia-solar-fique-atento-aos-cuidados-de-ciberseguranca/" title="Pensando em investir no mercado de energia solar? Fique atento aos cuidados de cibersegurança!" rel="bookmark noopener noreferrer" data-wpel-link="internal" target="_self"><i class="icon-ios-paper-outline wpqa_hide"></i>Pensando em investir no mercado de energia solar? Fique atento ...</a></h3></div>
+		</li></ul><div class="blog-post-button"><a href="https://respostas.sebrae.com.br/blog/" class="button-default btn btn__primary btn__block btn__semi__height" data-wpel-link="internal" target="_self" rel="noopener noreferrer">Mais posts do Blog</a></div></div>
+			</div>			</div>
+		</section><section id="users-widget-2" class="widget users-widget"><h2 class="widget-title"><i class="icon-folder"></i>Quem mais contribuiu recentemente</h2>				<div class="widget-wrap">
+					<div class='user-section user-section-small row row-warp row-boot user-not-normal widget-user-crown'><div class='col col12 col-boot-12'><div class="post-section user-area user-area-small community-card community-card-layout3 d-flex flex-wrap justify-content-between widget-icon-user">
+				<div class="post-inner member__info community__info"><div class="author-image author__avatar author-image-42"><a href="https://respostas.sebrae.com.br/profile/augusto-freitas/" data-wpel-link="internal" target="_self" rel="noopener noreferrer"><span class="author-image-span"><img class='avatar avatar-42 rounded-circle photo' alt='Ozni Batista' title='Ozni Batista' width='42' height='42' data-lazy-srcset='https://secure.gravatar.com/avatar/8fbc13206bafcedd9c492e3dd93f6352?s=96&d=monsterid&r=g 1x, https://secure.gravatar.com/avatar/8fbc13206bafcedd9c492e3dd93f6352?s=96&d=monsterid&r=g 2x' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2042%2042'%3E%3C/svg%3E" data-lazy-src="https://secure.gravatar.com/avatar/8fbc13206bafcedd9c492e3dd93f6352?s=96&d=monsterid&r=g"><noscript><img class='avatar avatar-42 rounded-circle photo' alt='Ozni Batista' title='Ozni Batista' width='42' height='42' srcset='https://secure.gravatar.com/avatar/8fbc13206bafcedd9c492e3dd93f6352?s=96&d=monsterid&r=g 1x, https://secure.gravatar.com/avatar/8fbc13206bafcedd9c492e3dd93f6352?s=96&d=monsterid&r=g 2x' src='https://secure.gravatar.com/avatar/8fbc13206bafcedd9c492e3dd93f6352?s=96&d=monsterid&r=g'></noscript></span></a></div><div class="user-content">
+						<div class="user-inner"><h4 class="member__name mb-1"><a href="https://respostas.sebrae.com.br/profile/augusto-freitas/" data-wpel-link="internal" target="_self" rel="noopener noreferrer">Ozni Batista</a></h4><div class="user-data">
+									<ul class="member__stats list-unstyled mb-0 d-flex"><li class="user-points stats__item community__count">
+													<a href="https://respostas.sebrae.com.br/profile/augusto-freitas/pontos/" data-wpel-link="internal" target="_self" rel="noopener noreferrer">
+														<i class="icon-bucket"></i>
+														<span class="stats__count">102 </span><span class="stats__text">Pontos</span>
+													</a>
+												</li></ul>
+								</div><!-- End user-data --><span class="badge-span" style="background-color: #3f90a3">Novo na comunidade</span></div></div><!-- End user-content --><div class="clearfix"></div>
+				</div><!-- End post-inner --></div><!-- End post --></div><div class='col col12 col-boot-12'><div class="post-section user-area user-area-small community-card community-card-layout3 d-flex flex-wrap justify-content-between widget-icon-user">
+				<div class="post-inner member__info community__info"><div class="author-image author__avatar author-image-42"><a href="https://respostas.sebrae.com.br/profile/ronaldo_67/" data-wpel-link="internal" target="_self" rel="noopener noreferrer"><span class="author-image-span"><img class='avatar avatar-42 rounded-circle photo' alt='Ronaldo Carvalho' title='Ronaldo Carvalho' width='42' height='42' data-lazy-srcset='https://secure.gravatar.com/avatar/93a6db87f884d91b830711d8bb5430cb?s=96&d=monsterid&r=g 1x, https://secure.gravatar.com/avatar/93a6db87f884d91b830711d8bb5430cb?s=96&d=monsterid&r=g 2x' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2042%2042'%3E%3C/svg%3E" data-lazy-src="https://secure.gravatar.com/avatar/93a6db87f884d91b830711d8bb5430cb?s=96&d=monsterid&r=g"><noscript><img class='avatar avatar-42 rounded-circle photo' alt='Ronaldo Carvalho' title='Ronaldo Carvalho' width='42' height='42' srcset='https://secure.gravatar.com/avatar/93a6db87f884d91b830711d8bb5430cb?s=96&d=monsterid&r=g 1x, https://secure.gravatar.com/avatar/93a6db87f884d91b830711d8bb5430cb?s=96&d=monsterid&r=g 2x' src='https://secure.gravatar.com/avatar/93a6db87f884d91b830711d8bb5430cb?s=96&d=monsterid&r=g'></noscript></span></a></div><div class="user-content">
+						<div class="user-inner"><h4 class="member__name mb-1"><a href="https://respostas.sebrae.com.br/profile/ronaldo_67/" data-wpel-link="internal" target="_self" rel="noopener noreferrer">Ronaldo Carvalho</a></h4><div class="user-data">
+									<ul class="member__stats list-unstyled mb-0 d-flex"><li class="user-points stats__item community__count">
+													<a href="https://respostas.sebrae.com.br/profile/ronaldo_67/pontos/" data-wpel-link="internal" target="_self" rel="noopener noreferrer">
+														<i class="icon-bucket"></i>
+														<span class="stats__count">102 </span><span class="stats__text">Pontos</span>
+													</a>
+												</li></ul>
+								</div><!-- End user-data --><span class="badge-span" style="background-color: #3f90a3">Novo na comunidade</span></div></div><!-- End user-content --><div class="clearfix"></div>
+				</div><!-- End post-inner --></div><!-- End post --></div><div class='col col12 col-boot-12'><div class="post-section user-area user-area-small community-card community-card-layout3 d-flex flex-wrap justify-content-between widget-icon-user">
+				<div class="post-inner member__info community__info"><div class="author-image author__avatar author-image-42"><a href="https://respostas.sebrae.com.br/profile/alessandra_104/" data-wpel-link="internal" target="_self" rel="noopener noreferrer"><span class="author-image-span"><img class='avatar avatar-42 rounded-circle photo' alt='Alessandra Martins' title='Alessandra Martins' width='42' height='42' data-lazy-srcset='https://secure.gravatar.com/avatar/5c1da0a1bbbd19cb3588bb256efb5c62?s=96&d=monsterid&r=g 1x, https://secure.gravatar.com/avatar/5c1da0a1bbbd19cb3588bb256efb5c62?s=96&d=monsterid&r=g 2x' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2042%2042'%3E%3C/svg%3E" data-lazy-src="https://secure.gravatar.com/avatar/5c1da0a1bbbd19cb3588bb256efb5c62?s=96&d=monsterid&r=g"><noscript><img class='avatar avatar-42 rounded-circle photo' alt='Alessandra Martins' title='Alessandra Martins' width='42' height='42' srcset='https://secure.gravatar.com/avatar/5c1da0a1bbbd19cb3588bb256efb5c62?s=96&d=monsterid&r=g 1x, https://secure.gravatar.com/avatar/5c1da0a1bbbd19cb3588bb256efb5c62?s=96&d=monsterid&r=g 2x' src='https://secure.gravatar.com/avatar/5c1da0a1bbbd19cb3588bb256efb5c62?s=96&d=monsterid&r=g'></noscript></span></a></div><div class="user-content">
+						<div class="user-inner"><h4 class="member__name mb-1"><a href="https://respostas.sebrae.com.br/profile/alessandra_104/" data-wpel-link="internal" target="_self" rel="noopener noreferrer">Alessandra Martins</a></h4><div class="user-data">
+									<ul class="member__stats list-unstyled mb-0 d-flex"><li class="user-points stats__item community__count">
+													<a href="https://respostas.sebrae.com.br/profile/alessandra_104/pontos/" data-wpel-link="internal" target="_self" rel="noopener noreferrer">
+														<i class="icon-bucket"></i>
+														<span class="stats__count">102 </span><span class="stats__text">Pontos</span>
+													</a>
+												</li></ul>
+								</div><!-- End user-data --><span class="badge-span" style="background-color: #3f90a3">Novo na comunidade</span></div></div><!-- End user-content --><div class="clearfix"></div>
+				</div><!-- End post-inner --></div><!-- End post --></div><div class='col col12 col-boot-12'><div class="post-section user-area user-area-small community-card community-card-layout3 d-flex flex-wrap justify-content-between widget-icon-user">
+				<div class="post-inner member__info community__info"><div class="author-image author__avatar author-image-42"><a href="https://respostas.sebrae.com.br/profile/emanuelle_7/" data-wpel-link="internal" target="_self" rel="noopener noreferrer"><span class="author-image-span"><img class='avatar avatar-42 rounded-circle photo' alt='Emanuelle Souza' title='Emanuelle Souza' width='42' height='42' data-lazy-srcset='https://secure.gravatar.com/avatar/964ffc9c07e646f6f0183cddee8522be?s=96&d=monsterid&r=g 1x, https://secure.gravatar.com/avatar/964ffc9c07e646f6f0183cddee8522be?s=96&d=monsterid&r=g 2x' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2042%2042'%3E%3C/svg%3E" data-lazy-src="https://secure.gravatar.com/avatar/964ffc9c07e646f6f0183cddee8522be?s=96&d=monsterid&r=g"><noscript><img class='avatar avatar-42 rounded-circle photo' alt='Emanuelle Souza' title='Emanuelle Souza' width='42' height='42' srcset='https://secure.gravatar.com/avatar/964ffc9c07e646f6f0183cddee8522be?s=96&d=monsterid&r=g 1x, https://secure.gravatar.com/avatar/964ffc9c07e646f6f0183cddee8522be?s=96&d=monsterid&r=g 2x' src='https://secure.gravatar.com/avatar/964ffc9c07e646f6f0183cddee8522be?s=96&d=monsterid&r=g'></noscript></span></a></div><div class="user-content">
+						<div class="user-inner"><h4 class="member__name mb-1"><a href="https://respostas.sebrae.com.br/profile/emanuelle_7/" data-wpel-link="internal" target="_self" rel="noopener noreferrer">Emanuelle Souza</a></h4><div class="user-data">
+									<ul class="member__stats list-unstyled mb-0 d-flex"><li class="user-points stats__item community__count">
+													<a href="https://respostas.sebrae.com.br/profile/emanuelle_7/pontos/" data-wpel-link="internal" target="_self" rel="noopener noreferrer">
+														<i class="icon-bucket"></i>
+														<span class="stats__count">100 </span><span class="stats__text">Pontos</span>
+													</a>
+												</li></ul>
+								</div><!-- End user-data --><span class="badge-span" style="background-color: #3f90a3">Novo na comunidade</span></div></div><!-- End user-content --><div class="clearfix"></div>
+				</div><!-- End post-inner --></div><!-- End post --></div><div class='col col12 col-boot-12'><div class="post-section user-area user-area-small community-card community-card-layout3 d-flex flex-wrap justify-content-between widget-icon-user">
+				<div class="post-inner member__info community__info"><div class="author-image author__avatar author-image-42"><a href="https://respostas.sebrae.com.br/profile/upseo/" data-wpel-link="internal" target="_self" rel="noopener noreferrer"><span class="author-image-span"><img class='avatar avatar-42 rounded-circle photo' alt='UpSEO' title='UpSEO' width='42' height='42' data-lazy-srcset='https://secure.gravatar.com/avatar/70e58945017601bff5ffd95d965e09f1?s=96&d=monsterid&r=g 1x, https://secure.gravatar.com/avatar/70e58945017601bff5ffd95d965e09f1?s=96&d=monsterid&r=g 2x' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2042%2042'%3E%3C/svg%3E" data-lazy-src="https://secure.gravatar.com/avatar/70e58945017601bff5ffd95d965e09f1?s=96&d=monsterid&r=g"><noscript><img class='avatar avatar-42 rounded-circle photo' alt='UpSEO' title='UpSEO' width='42' height='42' srcset='https://secure.gravatar.com/avatar/70e58945017601bff5ffd95d965e09f1?s=96&d=monsterid&r=g 1x, https://secure.gravatar.com/avatar/70e58945017601bff5ffd95d965e09f1?s=96&d=monsterid&r=g 2x' src='https://secure.gravatar.com/avatar/70e58945017601bff5ffd95d965e09f1?s=96&d=monsterid&r=g'></noscript></span></a></div><div class="user-content">
+						<div class="user-inner"><h4 class="member__name mb-1"><a href="https://respostas.sebrae.com.br/profile/upseo/" data-wpel-link="internal" target="_self" rel="noopener noreferrer">UpSEO</a></h4><div class="user-data">
+									<ul class="member__stats list-unstyled mb-0 d-flex"><li class="user-points stats__item community__count">
+													<a href="https://respostas.sebrae.com.br/profile/upseo/pontos/" data-wpel-link="internal" target="_self" rel="noopener noreferrer">
+														<i class="icon-bucket"></i>
+														<span class="stats__count">100 </span><span class="stats__text">Pontos</span>
+													</a>
+												</li></ul>
+								</div><!-- End user-data --><span class="badge-span" style="background-color: #3f90a3">Novo na comunidade</span></div></div><!-- End user-content --><div class="clearfix"></div>
+				</div><!-- End post-inner --></div><!-- End post --></div><div class='col col12 col-boot-12'><div class="post-section user-area user-area-small community-card community-card-layout3 d-flex flex-wrap justify-content-between widget-icon-user">
+				<div class="post-inner member__info community__info"><div class="author-image author__avatar author-image-42"><a href="https://respostas.sebrae.com.br/profile/1xslots-brasil/" data-wpel-link="internal" target="_self" rel="noopener noreferrer"><span class="author-image-span"><img class='avatar avatar-42 rounded-circle photo' alt='1xslots-brasil' title='1xslots-brasil' width='42' height='42' data-lazy-srcset='https://respostas.sebrae.com.br/wp-content/uploads/2024/09/1xslots-42x42.png 1x, https://respostas.sebrae.com.br/wp-content/uploads/2024/09/1xslots-84x84.png 2x' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2042%2042'%3E%3C/svg%3E" data-lazy-src="https://respostas.sebrae.com.br/wp-content/uploads/2024/09/1xslots-42x42.png"><noscript><img class='avatar avatar-42 rounded-circle photo' alt='1xslots-brasil' title='1xslots-brasil' width='42' height='42' srcset='https://respostas.sebrae.com.br/wp-content/uploads/2024/09/1xslots-42x42.png 1x, https://respostas.sebrae.com.br/wp-content/uploads/2024/09/1xslots-84x84.png 2x' src='https://respostas.sebrae.com.br/wp-content/uploads/2024/09/1xslots-42x42.png'></noscript></span></a></div><div class="user-content">
+						<div class="user-inner"><h4 class="member__name mb-1"><a href="https://respostas.sebrae.com.br/profile/1xslots-brasil/" data-wpel-link="internal" target="_self" rel="noopener noreferrer">1xslots-brasil</a></h4><div class="user-data">
+									<ul class="member__stats list-unstyled mb-0 d-flex"><li class="user-points stats__item community__count">
+													<a href="https://respostas.sebrae.com.br/profile/1xslots-brasil/pontos/" data-wpel-link="internal" target="_self" rel="noopener noreferrer">
+														<i class="icon-bucket"></i>
+														<span class="stats__count">100 </span><span class="stats__text">Pontos</span>
+													</a>
+												</li></ul>
+								</div><!-- End user-data --><span class="badge-span" style="background-color: #3f90a3">Novo na comunidade</span></div></div><!-- End user-content --><div class="clearfix"></div>
+				</div><!-- End post-inner --></div><!-- End post --></div><div class='col col12 col-boot-12'><div class="post-section user-area user-area-small community-card community-card-layout3 d-flex flex-wrap justify-content-between widget-icon-user">
+				<div class="post-inner member__info community__info"><div class="author-image author__avatar author-image-42"><a href="https://respostas.sebrae.com.br/profile/julia_79/" data-wpel-link="internal" target="_self" rel="noopener noreferrer"><span class="author-image-span"><img class='avatar avatar-42 rounded-circle photo' alt='Júlia Silva' title='Júlia Silva' width='42' height='42' data-lazy-srcset='https://secure.gravatar.com/avatar/55eb6b9affcf111d48494cbccac6b141?s=96&d=monsterid&r=g 1x, https://secure.gravatar.com/avatar/55eb6b9affcf111d48494cbccac6b141?s=96&d=monsterid&r=g 2x' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2042%2042'%3E%3C/svg%3E" data-lazy-src="https://secure.gravatar.com/avatar/55eb6b9affcf111d48494cbccac6b141?s=96&d=monsterid&r=g"><noscript><img class='avatar avatar-42 rounded-circle photo' alt='Júlia Silva' title='Júlia Silva' width='42' height='42' srcset='https://secure.gravatar.com/avatar/55eb6b9affcf111d48494cbccac6b141?s=96&d=monsterid&r=g 1x, https://secure.gravatar.com/avatar/55eb6b9affcf111d48494cbccac6b141?s=96&d=monsterid&r=g 2x' src='https://secure.gravatar.com/avatar/55eb6b9affcf111d48494cbccac6b141?s=96&d=monsterid&r=g'></noscript></span></a></div><div class="user-content">
+						<div class="user-inner"><h4 class="member__name mb-1"><a href="https://respostas.sebrae.com.br/profile/julia_79/" data-wpel-link="internal" target="_self" rel="noopener noreferrer">Júlia Silva</a></h4><div class="user-data">
+									<ul class="member__stats list-unstyled mb-0 d-flex"><li class="user-points stats__item community__count">
+													<a href="https://respostas.sebrae.com.br/profile/julia_79/pontos/" data-wpel-link="internal" target="_self" rel="noopener noreferrer">
+														<i class="icon-bucket"></i>
+														<span class="stats__count">100 </span><span class="stats__text">Pontos</span>
+													</a>
+												</li></ul>
+								</div><!-- End user-data --><span class="badge-span" style="background-color: #3f90a3">Novo na comunidade</span></div></div><!-- End user-content --><div class="clearfix"></div>
+				</div><!-- End post-inner --></div><!-- End post --></div><div class='col col12 col-boot-12'><div class="post-section user-area user-area-small community-card community-card-layout3 d-flex flex-wrap justify-content-between widget-icon-user">
+				<div class="post-inner member__info community__info"><div class="author-image author__avatar author-image-42"><a href="https://respostas.sebrae.com.br/profile/celeste_3/" data-wpel-link="internal" target="_self" rel="noopener noreferrer"><span class="author-image-span"><img class='avatar avatar-42 rounded-circle photo' alt='Celeste' title='Celeste' width='42' height='42' data-lazy-srcset='https://secure.gravatar.com/avatar/ee5d5c125cb26565492c118d3dcab4d6?s=96&d=monsterid&r=g 1x, https://secure.gravatar.com/avatar/ee5d5c125cb26565492c118d3dcab4d6?s=96&d=monsterid&r=g 2x' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2042%2042'%3E%3C/svg%3E" data-lazy-src="https://secure.gravatar.com/avatar/ee5d5c125cb26565492c118d3dcab4d6?s=96&d=monsterid&r=g"><noscript><img class='avatar avatar-42 rounded-circle photo' alt='Celeste' title='Celeste' width='42' height='42' srcset='https://secure.gravatar.com/avatar/ee5d5c125cb26565492c118d3dcab4d6?s=96&d=monsterid&r=g 1x, https://secure.gravatar.com/avatar/ee5d5c125cb26565492c118d3dcab4d6?s=96&d=monsterid&r=g 2x' src='https://secure.gravatar.com/avatar/ee5d5c125cb26565492c118d3dcab4d6?s=96&d=monsterid&r=g'></noscript></span></a></div><div class="user-content">
+						<div class="user-inner"><h4 class="member__name mb-1"><a href="https://respostas.sebrae.com.br/profile/celeste_3/" data-wpel-link="internal" target="_self" rel="noopener noreferrer">Celeste</a></h4><div class="user-data">
+									<ul class="member__stats list-unstyled mb-0 d-flex"><li class="user-points stats__item community__count">
+													<a href="https://respostas.sebrae.com.br/profile/celeste_3/pontos/" data-wpel-link="internal" target="_self" rel="noopener noreferrer">
+														<i class="icon-bucket"></i>
+														<span class="stats__count">100 </span><span class="stats__text">Pontos</span>
+													</a>
+												</li></ul>
+								</div><!-- End user-data --><span class="badge-span" style="background-color: #3f90a3">Novo na comunidade</span></div></div><!-- End user-content --><div class="clearfix"></div>
+				</div><!-- End post-inner --></div><!-- End post --></div>					</div>
+				</div>
+			</section>								</div>
+							</aside><!-- End sidebar -->
+										</main><!-- End discy-site-content -->
+				
+							</div><!-- End the-main-container -->
+		</div><!-- End discy-inner-content -->
+	</div><!-- End main-content -->
+	
+				<footer class="footer no-widget-icons footer-light" itemscope="" itemtype="https://schema.org/WPFooter">
+								<div id="inner-footer" class="wrap clearfix">
+													<div class="top-footer">
+									<div class="the-main-container">
+										<aside>
+											<h3 class="screen-reader-text">votante(s)</h3>
+											<div class="col4">
+												<section id="text-2" class="widget widget_text"><h2 class="widget-title"><i class="icon-folder"></i>Sebrae Respostas</h2>			<div class="textwidget"><p class="Body" style="text-align: justify; text-justify: inter-ideograph;"><span style="font-size: 11.0pt; font-family: 'Arial',sans-serif; mso-bidi-font-family: Calibri; color: black; mso-themecolor: background1; mso-ansi-language: PT-BR;">É um site colaborativo e o Sebrae atua apenas como mediador, ou seja, não se responsabiliza pelas respostas e conteúdos postados por terceiros.</span></p>
+</div>
+		</section>											</div>
+											
+																							<div class="col4">
+													<section id="text-5" class="widget widget_text"><h2 class="widget-title"><i class="icon-folder"></i>Regras da Comunidade</h2>			<div class="textwidget"><p class="Body" style="text-align: justify; text-justify: inter-ideograph;"><span style="font-size: 11.0pt; font-family: 'Arial',sans-serif; mso-bidi-font-family: Calibri; color: black; mso-themecolor: background1; mso-ansi-language: PT-BR;">Descubra o que pode e o que não pode na comunidade:<strong> <span style="color: #3498db;"><a style="color: #3498db;" href="https://respostas.sebrae.com.br/termos-de-uso/" data-wpel-link="internal" target="_self" rel="noopener noreferrer"><span style="color: #3498db;">Termos de Uso</span></a></span></strong></span></p>
+</div>
+		</section><section id="block-21" class="widget widget_block widget_text">
+<p></p>
+</section><section id="block-22" class="widget widget_block">
+<h2 class="wp-block-heading"></h2>
+</section>												</div>
+																							<div class="col4">
+													<section id="text-3" class="widget widget_text"><h2 class="widget-title"><i class="icon-folder"></i>Experimente a inteligência artificial do Sebrae Respostas</h2>			<div class="textwidget"><p><span style="color: #000000; font-family: Arial, sans-serif;"><span style="font-size: 14.6667px;">Faça <a href="https://respostas.sebrae.com.br/add-question/" data-wpel-link="internal" target="_self" rel="noopener noreferrer">uma pergunta</a> e receba uma resposta automática</span></span></p>
+</div>
+		</section>												</div>
+																					</aside>
+										<div class="clearfix"></div>
+									</div><!-- End the-main-container -->
+								</div><!-- End top-footer -->
+												</div><!-- End inner-footer -->
+			</footer><!-- End footer -->
+		</div><!-- End wrap -->
+	<div class="go-up"><i class="icon-up-open-big"></i></div>
+	<div class="dark-light-switcher dark-light-switcher-2 dark-switcher"><input type="checkbox" class="switcher-dark switcher-dark-checked"><span></span></div>
+<!--
+The IP2Location Country Blocker is using IP2Location LITE geolocation database. Please visit http://lite.ip2location.com for more information.
+-->
+        <script>
+            (function () {
+                document.addEventListener("DOMContentLoaded", function (e) {
+                    if (document.hasOwnProperty("visibilityState") && document.visibilityState === "prerender") {
+                        return;
+                    }
+
+                                            if (navigator.webdriver || /bot|crawler|spider|crawling|semrushbot|chrome-lighthouse/i.test(navigator.userAgent)) {
+                            return;
+                        }
+                                        
+                    let referrer_url = null;
+
+                    if (typeof document.referrer === 'string' && document.referrer.length > 0) {
+                        referrer_url = document.referrer;
+                    }
+
+                    const params = location.search.slice(1).split('&').reduce((acc, s) => {
+                        const [k, v] = s.split('=')
+                        return Object.assign(acc, {[k]: v})
+                    }, {})
+
+                    const url = "https://respostas.sebrae.com.br/wp-json/iawp/search"
+                    const body = {
+                        referrer_url,
+                        utm_source: params.utm_source,
+                        utm_medium: params.utm_medium,
+                        utm_campaign: params.utm_campaign,
+                        utm_term: params.utm_term,
+                        utm_content: params.utm_content,
+                        ...{"payload":{"resource":"singular","singular_id":"82677","page":1},"signature":"835ef20099588c8a8ad27d9ecb0ad9ef"}                    }
+                    const xhr = new XMLHttpRequest()
+                    xhr.open("POST", url, true)
+                    xhr.setRequestHeader("Content-Type", "application/json;charset=UTF-8")
+                    xhr.send(JSON.stringify(body))
+                })
+            })();
+        </script>
+        
+<!-- Consent Management powered by Complianz | GDPR/CCPA Cookie Consent https://wordpress.org/plugins/complianz-gdpr -->
+<div id="cmplz-cookiebanner-container"></div>
+					<div id="cmplz-manage-consent" data-nosnippet="true"></div><link rel='stylesheet' id='e-animations-css' href='https://respostas.sebrae.com.br/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.6.4' type='text/css' media='all' />
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-content/plugins/WPQA/assets/js/scripts.js?ver=6.1.3" id="wpqa-scripts-js-js"></script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.3" id="jquery-ui-datepicker-js"></script>
+<script type="text/javascript" id="jquery-ui-datepicker-js-after">
+/* <![CDATA[ */
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Fechar","currentText":"Hoje","monthNames":["janeiro","fevereiro","mar\u00e7o","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"],"monthNamesShort":["jan","fev","mar","abr","maio","jun","jul","ago","set","out","nov","dez"],"nextText":"Seguinte","prevText":"Anterior","dayNames":["domingo","segunda-feira","ter\u00e7a-feira","quarta-feira","quinta-feira","sexta-feira","s\u00e1bado"],"dayNamesShort":["dom","seg","ter","qua","qui","sex","s\u00e1b"],"dayNamesMin":["D","S","T","Q","Q","S","S"],"dateFormat":"d \\dd\\e MM \\dd\\e yy","firstDay":1,"isRTL":false});});
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3" id="jquery-ui-mouse-js"></script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3" id="jquery-ui-sortable-js"></script>
+<script type="text/javascript" id="wpqa-custom-js-js-extra">
+/* <![CDATA[ */
+var wpqa_custom = {"admin_url":"https:\/\/respostas.sebrae.com.br\/wp-admin\/admin-ajax.php","poll_image":"0","poll_image_title":"0","comment_limit":"0","comment_min_limit":"0","answer_limit":"0","answer_min_limit":"0","question":"question","asked_question":"asked-question","home_url":"https:\/\/respostas.sebrae.com.br\/","poll_number_min":"Sorry, The minimum items is","poll_number_max":"Sorry, The maximum items is","wpqa_error_text":"Escolha uma op\u00e7\u00e3o pra poder votar","wpqa_error_min_limit":"Sorry, The minimum characters is","wpqa_error_limit":"Sorry, The maximum characters is","sure_delete_comment":"Are you sure you want to delete the comment?","sure_delete_answer":"Tem certeza que deseja deletar a resposta?","wpqa_remove_image":"Are you sure you want to delete the image?","wpqa_remove_attachment":"Are you sure you want to delete the attachment?","no_vote_question":"Desculpe, voc\u00ea n\u00e3o pode votar em sua pergunta","no_vote_more":"Desculpe, voc\u00ea n\u00e3o pode votar na mesma quest\u00e3o mais de uma vez.","no_vote_user":"Vota\u00e7\u00e3o para membros apenas","no_vote_answer":"Desculpe, voc\u00ea n\u00e3o pode votar em sua pr\u00f3pria resposta ou em resposta j\u00e1 votada por voc\u00ea.","no_vote_more_answer":"Sorry, you cannot vote on the same answer more than once.","no_vote_comment":"Sorry, you cannot vote your comment.","no_vote_more_comment":"Sorry, you cannot vote on the same comment more than once.","follow_question_attr":"Follow the question","unfollow_question_attr":"Unfollow the question","follow":"Seguir","unfollow":"Deixar de seguir","select_file":"Selecionar arquivo","browse":"Procurar","reported":"Thank you, your report will be reviewed shortly.","wpqa_error_comment":"Please type a comment.","click_continue":"Clique aqui para salvar e continuar","click_not_finish":"Conclua as assinaturas m\u00ednimas para construirmos seu feed personalizado.","ban_user":"Banir usu\u00e1rio","unban_user":"Unban user","block_user":"Block user","unblock_user":"Unblock user","no_poll_more":"Voc\u00ea n\u00e3o pode votar mais de uma vez! :(","must_login":"Se cadastre ou fa\u00e7a login para votar ou ver o resultado da enquete","insert_image":"Insert Image","error_uploading_image":"Attachment Error! Please upload image only.","add_favorite":"Add this question to favorites","remove_favorite":"Remove this question of my favorites","add_emoji":"React"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-content/plugins/WPQA/assets/js/custom.js?ver=6.1.3" id="wpqa-custom-js-js"></script>
+<script type="text/javascript" id="wpqa-single-js-js-extra">
+/* <![CDATA[ */
+var wpqa_single = {"wpqa_dir":"https:\/\/respostas.sebrae.com.br\/wp-content\/plugins\/WPQA\/","wpqa_best_answer_nonce":"c9706e472f","require_name_email":"","admin_url":"https:\/\/respostas.sebrae.com.br\/wp-admin\/admin-ajax.php","comment_limit":"0","comment_min_limit":"0","answer_limit":"0","answer_min_limit":"0","captcha_answer":"13","attachment_answer":"0","featured_image_answer":"0","terms_active_comment":"0","comment_editor":"0","activate_editor_reply":"0","is_logged":"unlogged","display_name":"","profile_url":"","logout_url":"","popup_share_seconds":"30","comment_action":"https:\/\/respostas.sebrae.com.br\/wp-comments-post.php","wpqa_error_name":"Nome \u00e9 obrigat\u00f3rio","wpqa_error_email":"E-mail \u00e9 obrigat\u00f3rio","wpqa_valid_email":"Please enter a valid email address.","wpqa_error_comment":"Please type a comment.","wpqa_error_min_limit":"Sorry, The minimum characters is","wpqa_error_limit":"Sorry, The maximum characters is","wpqa_error_terms":"There are required fields (Agree of the terms).","cancel_reply":"Cancel reply.","logged_as":"Logged in as","logout_title":"Log out of this account","logout":"Log out","reply":"Comentar","submit":"Enviar","choose_best_answer":"Select as best answer","cancel_best_answer":"Cancel the best answer","best_answer":"Melhores Respostas","best_answer_selected":"There is another one select this a best answer","wpqa_error_captcha":"O Captcha n\u00e3o foi preenchido ou est\u00e1 incorreto. Tente novamente!","sure_delete":"Tem certeza que deseja deletar  a pergunta?","sure_delete_post":"Tem certeza que deseja deletar o post?","get_points":"You have bumped your question."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-content/plugins/WPQA/assets/js/single.js?ver=6.1.3" id="wpqa-single-js-js"></script>
+<script type="text/javascript" id="wpqa-unlogged-js-js-extra">
+/* <![CDATA[ */
+var wpqa_unlogged = {"wpqa_dir":"https:\/\/respostas.sebrae.com.br\/wp-content\/plugins\/WPQA\/","admin_url":"https:\/\/respostas.sebrae.com.br\/wp-admin\/admin-ajax.php","captcha_answer":"13","wpqa_error_text":"Escolha uma op\u00e7\u00e3o pra poder votar","wpqa_error_captcha":"O Captcha n\u00e3o foi preenchido ou est\u00e1 incorreto. Tente novamente!"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-content/plugins/WPQA/assets/js/unlogged.js?ver=6.1.3" id="wpqa-unlogged-js-js"></script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.8" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/respostas.sebrae.com.br\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="contact-form-7-js-translations">
+/* <![CDATA[ */
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "contact-form-7", {"translation-revision-date":"2023-10-27 10:58:15+0000","generator":"GlotPress\/4.0.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"Error:":["Erro:"]}},"comment":{"reference":"includes\/js\/index.js"}} );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9.8" id="contact-form-7-js"></script>
+<script type="text/javascript" id="rocket-browser-checker-js-after">
+/* <![CDATA[ */
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+/* ]]> */
+</script>
+<script type="text/javascript" id="rocket-delay-js-js-after">
+/* <![CDATA[ */
+(function() {
+"use strict";var e=function(){function n(e,t){for(var r=0;r<t.length;r++){var n=t[r];n.enumerable=n.enumerable||!1,n.configurable=!0,"value"in n&&(n.writable=!0),Object.defineProperty(e,n.key,n)}}return function(e,t,r){return t&&n(e.prototype,t),r&&n(e,r),e}}();function n(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function r(e,t){n(this,r),this.attrName="data-rocketlazyloadscript",this.browser=t,this.options=this.browser.options,this.triggerEvents=e,this.userEventListener=this.triggerListener.bind(this)}return e(r,[{key:"init",value:function(){this._addEventListener(this)}},{key:"reset",value:function(){this._removeEventListener(this)}},{key:"_addEventListener",value:function(t){this.triggerEvents.forEach(function(e){return window.addEventListener(e,t.userEventListener,t.options)})}},{key:"_removeEventListener",value:function(t){this.triggerEvents.forEach(function(e){return window.removeEventListener(e,t.userEventListener,t.options)})}},{key:"_loadScriptSrc",value:function(){var r=this,e=document.querySelectorAll("script["+this.attrName+"]");0!==e.length&&Array.prototype.slice.call(e).forEach(function(e){var t=e.getAttribute(r.attrName);e.setAttribute("src",t),e.removeAttribute(r.attrName)}),this.reset()}},{key:"triggerListener",value:function(){this._loadScriptSrc(),this._removeEventListener(this)}}],[{key:"run",value:function(){RocketBrowserCompatibilityChecker&&new r(["keydown","mouseover","touchmove","touchstart"],new RocketBrowserCompatibilityChecker({passive:!0})).init()}}]),r}();t.run();
+}());
+/* ]]> */
+</script>
+<script type="text/javascript" id="rocket-preload-links-js-extra">
+/* <![CDATA[ */
+var RocketPreloadLinksConfig = {"excludeUris":"\/quiz\/quiz-profissoes-do-futuro-teste-e-descubra-a-sua-afinidade\/|\/(.+\/)?feed\/?.+\/?|\/(?:.+\/)?embed\/|\/(index\\.php\/)?wp\\-json(\/.*|$)|\/wp-admin\/|\/logout\/|\/entrar\/","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|php|pdf|html|htm","siteUrl":"https:\/\/respostas.sebrae.com.br","onHoverDelay":"100","rateThrottle":"3"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="rocket-preload-links-js-after">
+/* <![CDATA[ */
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-content/themes/discy/js/html5.js?ver=1.0.0" id="html5-js"></script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-content/themes/discy/js/modernizr.js?ver=1.0.0" id="modernizr-js"></script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-content/themes/discy/js/flexMenu.js?ver=1.0.0" id="discy-flex-menu-js"></script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-content/themes/discy/js/scrollbar.js?ver=1.0.0" id="discy-scrollbar-js"></script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-content/themes/discy/js/theia.js?ver=1.0.0" id="discy-theia-js"></script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-content/themes/discy/js/owl.js?ver=1.0.0" id="discy-owl-js"></script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-content/themes/discy/js/matchHeight.js?ver=1.0.0" id="discy-match-height-js"></script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-content/themes/discy/js/prettyPhoto.js?ver=1.0.0" id="discy-pretty-photo-js"></script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-content/themes/discy/js/tabs.js?ver=1.0.0" id="discy-tabs-js"></script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-content/themes/discy/js/tipsy.js?ver=1.0.0" id="discy-tipsy-js"></script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-content/themes/discy/js/isotope.js?ver=1.0.0" id="discy-isotope-js"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?ver=1.0.0" id="discy-recaptcha-js"></script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-content/themes/discy/js/custom.js?ver=5.7.3" id="discy-custom-js-js"></script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-includes/js/comment-reply.min.js?ver=6.6.1" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" id="cmplz-cookiebanner-js-extra">
+/* <![CDATA[ */
+var complianz = {"prefix":"cmplz_","user_banner_id":"","set_cookies":[],"block_ajax_content":"","banner_version":"0","version":"6.5.6","store_consent":"","do_not_track_enabled":"","consenttype":"optin","region":"eu","geoip":"","dismiss_timeout":"","disable_cookiebanner":"","soft_cookiewall":"","dismiss_on_scroll":"","cookie_expiry":"365","url":"https:\/\/respostas.sebrae.com.br\/wp-json\/complianz\/v1\/","locale":"lang=pt&locale=pt_BR","set_cookies_on_root":"","cookie_domain":"","current_policy_id":"1","cookie_path":"\/","categories":{"statistics":"estatisticas","marketing":"marketing"},"tcf_active":"","placeholdertext":"Clique para aceitar os cookies {category} e ativar este conte\u00fado","aria_label":"Clique para aceitar os cookies {category} e ativar este conte\u00fado","css_file":"https:\/\/respostas.sebrae.com.br\/wp-content\/uploads\/complianz\/css\/banner-{banner_id}-{type}.css?v=0","page_links":[],"tm_categories":"","forceEnableStats":"","preview":"","clean_cookies":""};
+/* ]]> */
+</script>
+<script defer type="text/javascript" src="https://respostas.sebrae.com.br/wp-content/plugins/complianz-gdpr/cookiebanner/js/complianz.min.js?ver=6.5.6" id="cmplz-cookiebanner-js"></script>
+<script type="text/javascript" id="cmplz-cookiebanner-js-after">
+/* <![CDATA[ */
+		
+			function ensure_complianz_is_loaded() {
+				let timeout = 30000000; // 30 seconds
+				let start = Date.now();
+				return new Promise(wait_for_complianz);
+
+				function wait_for_complianz(resolve, reject) {
+					if (window.cmplz_get_cookie) // if complianz is loaded, resolve the promise
+						resolve(window.cmplz_get_cookie);
+					else if (timeout && (Date.now() - start) >= timeout)
+						reject(new Error("timeout"));
+					else
+						setTimeout(wait_for_complianz.bind(this, resolve, reject), 30);
+				}
+			}
+
+			// This runs the promise code
+			ensure_complianz_is_loaded().then(function(){
+
+							  		// cookieless tracking is disabled
+					document.addEventListener("cmplz_cookie_warning_loaded", function(consentData) {
+						let region = consentData.detail;
+						if (region !== 'uk') {
+							let scriptElements = document.querySelectorAll('script[data-service="burst"]');
+							scriptElements.forEach(obj => {
+								if (obj.classList.contains('cmplz-activated') || obj.getAttribute('type') === 'text/javascript') {
+									return;
+								}
+								obj.classList.add('cmplz-activated');
+								let src = obj.getAttribute('src');
+								if (src) {
+									obj.setAttribute('type', 'text/javascript');
+									cmplz_run_script(src, 'statistics', 'src');
+									obj.parentNode.removeChild(obj);
+								}
+							});
+						}
+					});
+					document.addEventListener("cmplz_run_after_all_scripts", cmplz_burst_fire_domContentLoadedEvent);
+
+					function cmplz_burst_fire_domContentLoadedEvent() {
+						let event = new CustomEvent('burst_fire_hit');
+						document.dispatchEvent(event);
+					}
+							});
+		
+		
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.6.4" id="elementor-webpack-runtime-js"></script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.6.4" id="elementor-frontend-modules-js"></script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6" id="swiper-js"></script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.6.4" id="share-link-js"></script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0" id="elementor-dialog-js"></script>
+<script type="text/javascript" id="elementor-frontend-js-before">
+/* <![CDATA[ */
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartilhar no Facebook","shareOnTwitter":"Compartilhar no Twitter","pinIt":"Fixar","download":"Baixar","downloadImage":"Baixar imagem","fullscreen":"Tela cheia","zoom":"Zoom","share":"Compartilhar","playVideo":"Reproduzir v\u00eddeo","previous":"Anterior","next":"Pr\u00f3ximo","close":"Fechar"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Celular","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Celular extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.6.4","is_static":false,"experimentalFeatures":{"e_import_export":true,"e_hidden_wordpress_widgets":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true},"urls":{"assets":"https:\/\/respostas.sebrae.com.br\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":82677,"title":"O%20que%20%C3%A9%20educa%C3%A7%C3%A3o%20financeira%20e%20como%20desenvolver%20essa%20%C3%A1rea%20na%20sua%20vida%3F%20-%20Sebrae%20Respostas","excerpt":"","featuredImage":"https:\/\/respostas.sebrae.com.br\/wp-content\/uploads\/2020\/04\/educa\u00e7\u00e3o-financeira.jpg"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.6.4" id="elementor-frontend-js"></script>
+<script type="text/javascript" src="https://respostas.sebrae.com.br/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.6.4" id="preloaded-modules-js"></script>
+<script>window.lazyLoadOptions={elements_selector:"img[data-lazy-src],.rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}};window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){return}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){return}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://respostas.sebrae.com.br/wp-content/plugins/wp-rocket2/assets/js/lazyload/16.1/lazyload.min.js"></script></body>
+</html>
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1725672581 -->
