@@ -1,0 +1,143 @@
+body{
+	background-color:;
+	font-family: arial;
+	margin: 50px;
+    background-size: cover;
+}
+#cabecalho1{
+	background-color:#73c3e8;
+	width: 100%;
+    height: 100px;
+    border-radius:;
+    flex-direction: column;
+}
+#cabecalho1 img {
+    width: 160px;
+    height: 90px;
+    margin-right: 970px;
+}
+#cabecalho2{
+	background-color:#73c3e8;
+	width: 100%;
+    height: 100px;
+    border-radius:;
+   flex-direction: column;
+}
+#cabecalho2 img{
+    width: 160px;
+    height: 90px;
+     margin-right: 970px;
+}
+#cabecalho3{
+	background-color:#73c3e8;
+	width: 100%;
+    height: 100px;
+    border-radius:;
+    margin-bottom: 20px;
+    flex-direction: column;
+}
+#cabecalho3 img{
+    width: 160px;
+    height: 90px;
+     margin-right: 970px;
+}
+.slider{
+	width: 700px;
+	height: 700px;
+	overflow: hidden;
+}
+.slider img{
+	width: 700px;
+	height: 700px;
+}
+.slides{
+	width: 400%;
+	height: 700px;
+	display: flex;
+}
+.slides input{
+	display: none;
+}
+.slide{
+	width: 25%;
+	position: relative;
+    transition: margin-left 0.6s ease-in-out;
+}
+.manual-navigation{
+	position: absolute;
+	width: 700px;
+	margin-top: -40px;
+	display: flex;
+	justify-content: center;
+}
+.manual-btn{
+	border: 2px solid #ffff;
+	padding: 5px;
+	border-radius: 10px;
+	cursor: pointer;
+	transition: 1s;
+}
+.manual-btn:hover{
+	background-color: white;
+}
+#radio1:checked ~ .first{
+	margin-left: 0;
+}
+#radio2:checked ~ .first{
+	margin-left: -25%;
+}
+#radio3:checked ~ .first{
+	margin-left: -50%;
+}
+#radio4:checked ~ .first{
+	margin-left: -75%;
+}
+.navigation-auto div{
+	border: 2px solid blue;
+	padding: 5px;
+	border-radius: 10px;
+	cursor: pointer;
+	transition: 1s;
+}
+#radio1:checked ~ .navigation-auto .auto-btn1{
+	background-color: white;
+}
+#radio2:checked ~ .navigation-auto .auto-btn2{
+	background-color: white;
+}
+#radio3:checked ~ .navigation-auto .auto-btn3{
+	background-color: white;
+}
+#radio4:checked ~ .navigation-auto .auto-btn4{
+	background-color: white;
+}
+.container{
+    display: flex;
+    column-gap: 20px;
+    align-items: flex-start;
+}
+.retangulos{
+    display: flex;
+    flex-direction: column;
+    gap: 67px;
+    margin-left: auto;
+}
+.retangulo{
+    width: 650px;
+    height: 125px;
+    background-color: #73c3e8;
+    border-radius:;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    text-align: center;
+    flex-shrink: 0; 
+    font-family:;
+    color: white;
+}
+.rodape{
+    text-align: left; 
+    margin-top: 20px; 
+}
+}

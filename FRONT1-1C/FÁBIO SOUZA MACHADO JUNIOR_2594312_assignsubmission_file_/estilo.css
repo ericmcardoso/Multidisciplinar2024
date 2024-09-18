@@ -1,0 +1,44 @@
+body{
+	background-color: white;
+	font-family: calibri;
+	font-size: 1.2rem;
+}
+h1{
+	color: green;
+}
+title{
+	color: green;
+}
+h2{
+	color: forestgreen;
+}
+a{
+	color: black;
+}
+h3{
+	color: green;
+}
+iframe{
+	width:500; 
+	margin:0 auto;
+}table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  background-color: white;
+  color: green;
+}
+
+td,th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: lightgreen;
+
+}
+.tsts{
+	background-image: url(img789.img);
+}

@@ -1,0 +1,46 @@
+
+body{
+	background-color: pink ;
+	color: #FFFF;
+}
+h1{
+	color: deeppink;
+}
+h3{
+	color: hotpink;
+}
+h4{
+	color: hotpink;
+}
+
+p{
+	font-family: arial,
+}
+p{
+	color:black;
+}
+li{
+	color:black;
+}
+p{
+	font-size: 23px;
+}
+mark{
+	color:hotpink;
+}
+strong{
+	color:hotpink;
+}
+
+        a {
+            color: #ff007f;
+}
+        a.voltar {
+            color: hotpink;
+}
+footer {
+            background-color: hotpink;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }

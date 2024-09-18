@@ -1,0 +1,112 @@
+body{
+	background-color: #87CEEB;
+}
+#titulo{
+	color: darkblue;
+	text-align: center;
+	font-family: serif;
+
+}
+#subtitulo{
+	text-align: center;
+	color: darkblue;
+	font-family: serif
+}
+#explicacao{
+	color: blueviolet;
+	font-family: serif
+	width: 70%;
+	margin: 0 auto;
+}
+#materias{
+	
+	color: blueviolet;
+	font-family: serif
+	width: 70%;
+	margin: 0 auto;
+}
+#titulomat{
+	text-align: center;
+	color: blueviolet;
+	font-family: serif
+}
+#matematica{
+	color: blueviolet;
+	width: 70;
+	margin: 0 auto;
+}
+#portugues{
+	text-align: center;
+	color: blueviolet;
+	font-family: serif
+}
+#portugues2{
+	
+	color: blueviolet;
+	font-family: serif
+	width: 70%;
+	margin: 0 auto;
+}
+#fdd{
+	text-align: center;
+	color: blueviolet;
+	font-family: serif
+}
+#fdd2{
+
+	color: blueviolet;
+	font-family: serif
+	width: 70%;
+	margin: 0 auto;
+}
+#conteudo{
+	width: 70%;
+	margin: 0 auto;
+	font-family: serif
+}
+p{
+	color: blueviolet;
+	font-family: serif
+	width: 70%;
+	margin: 0 auto;	
+}
+
+}
+a{
+	color: blueviolet;
+	font-family: serif
+	width: 70%;
+	margin: 0 auto;
+}
+#dicas{
+	color: blueviolet;
+	font-family: serif;
+	width: 70;
+	margin: 40 auto;
+}
+#rodape{
+	color: blueviolet;
+	font-family: serif;
+}
+#explicacao2{
+	color: blueviolet;
+	font-family: serif;
+}
+#dicas1{
+	color: blueviolet;
+	font-family: serif;
+	width: 70;
+	margin: 40 auto;
+}
+	#matematica1{
+	color: blueviolet;
+	font-family: serif;
+	width: 70;
+	margin: 40 auto;
+}
+#portugues3{
+	color: blueviolet;
+	font-family: serif;
+	width: 70;
+	margin: 40 auto;
+}
