@@ -1,0 +1,82 @@
+body{
+	background-color: #2e2e2e;
+	margin: 0 280px 2.5vh 280px
+}
+h1{
+	font-family: Noto Sans, sans-serif;
+	font-weight: bold;
+	font-size: 25px;
+	color: #ebebeb;
+	text-align: center;
+}
+h2{
+	font-family: Noto Sans, sans-serif;
+	font-weight: bold;
+	font-size: 21px;
+	color: #ebebeb;
+}
+p{
+	font-family: Gill Sans, sans-serif;
+	font-size: 18px;
+	color: #ebebeb;
+}
+footer{
+	font-family: Gill Sans, sans-serif;
+	font-size: 18px;
+	color: #ebebeb;
+	font-weight: bold;
+}
+header{
+    background-color: #4a4a4a;
+    padding: 15px 0;
+    width: 100%;
+}
+.caixa-cabeçalho{
+    text-align: center;
+}
+.caixa-cabeçalho a{
+    color: #cfcecc;
+    font-family: Gill Sans, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    text-decoration: none;
+    margin: 0 15px;
+}
+.caixa-cards{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.caixa-cards img{
+    flex: 1 1 calc(50% - 10px);
+    max-width: calc(50% - 10px);
+    height: auto;
+    border: 2.5px solid #4a4a4a;
+}
+table{
+	width: 60%;
+	border-collapse: collapse;
+    margin: 0 auto;
+}
+th, td{
+	border: 1px solid #4a4a4a;
+	padding: 10px;
+	text-align: center;
+}
+th{
+	background-color: #4a4a4a;
+	font-family: Gill Sans, sans-serif;
+	font-size: 18px;
+	color: #ebebeb;
+
+}
+td{
+	background-color: #2e2e2e;
+	font-family: Gill Sans, sans-serif;
+	font-size: 18px;
+	color: #ebebeb;
+}
+iframe{
+    display: block;
+    margin: 0 auto;
+}

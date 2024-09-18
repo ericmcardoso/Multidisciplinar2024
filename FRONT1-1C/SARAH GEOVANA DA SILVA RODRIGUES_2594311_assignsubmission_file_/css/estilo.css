@@ -1,0 +1,58 @@
+/* Estilo para tags HTML */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    color: #e83278;
+    background-color: lightyellow;
+ }
+h1 {
+     list-style-type: none;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+p {
+     list-style-type: none;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+strong {
+     list-style-type: none;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+ul li  {
+    display: inline-grid;
+    margin-right: 15px;
+}
+
+/* Estilo para ID */
+#dicas {
+    margin-top: 40px;
+}
+
+/* Estilo para class */
+.footer-text {
+    font-size: 20px;
+    text-align: center;
+}
+.logo {
+    max-width: 10%;
+    height: 10%;
+}
+.video-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+iframe {
+  width: 100%;
+  max-width: 560px;
+  height: 315px;
+  border: none;
+}
