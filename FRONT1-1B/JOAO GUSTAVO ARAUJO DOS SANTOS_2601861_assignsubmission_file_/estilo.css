@@ -1,0 +1,73 @@
+.edu{
+    background-color: rgb(12, 86, 99);
+    color: #ffffff;
+    padding: 10px 20px;
+    border: #000;
+    border-color: #000;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    font-size: 20px;
+    color: #000000;
+    
+}
+.cabexario{
+    margin-right: 800px;
+    color: #ffffff;
+    font-size:40px ;
+    
+}
+.imagem1{
+    margin-top: -250px;
+    margin-left: 1100px;
+    width: 700px; 
+    height: 400px;
+}
+body{
+    text-align: center;
+    
+}
+.texto{
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: #f5f5f569;
+    filter: drop-shadow rgb(12, 86, 99);
+    box-shadow:2px 2px 2rem #137d6d;
+}
+.gastos{
+    background-color:rgb(12, 86, 99);
+    color: #ffffff;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+footer{
+    background-color: rgb(12, 86, 99); ;
+    color: #ffffff;
+    font-size: 20px;
+}
+.texto2{
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: #f5f5f569;
+    
+}
+.materia{
+    font-size: 40px;
+}
+.fd{
+    width: 1100px;
+    height: 800px;
+    filter: drop-shadow rgb(58, 67, 69);
+    box-shadow:2px 2px 2rem #505656;
+}
+.paragrafo{
+    font-size: 25px;
+}
+.pq{
+    width: 1000;
+    height: 800px;
+}
+
+

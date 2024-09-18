@@ -1,0 +1,59 @@
+body {
+	background-color: black;
+}
+
+
+footer {
+	color: white;
+	background-color: gray;
+}
+
+ul {
+	color: white;
+}
+
+h1 {
+	color: white;
+}
+
+h3 {
+	color: white;
+}
+
+h2 {
+	color: white;
+}
+
+mark {
+	text-align: center;
+	background-color: red;
+	color: black;
+}
+
+h1 {
+	color: white;
+}
+
+h6 {
+	color: white;
+}
+
+a {
+	font-size: 50px;
+}
+
+p {
+	color: white;
+}
+
+#Educaçãofinanceira {
+	color: blue;
+}
+
+#cringe {
+	color: yellow;
+	font-size: 20px;
+}
+header{
+	background-color: gray;
+}
