@@ -1,0 +1,306 @@
+body{
+	font-family: sans-serif;
+
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+strong{
+	font-size: 25px;
+	
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+h1{
+	margin-left: 100px;
+	margin-top: 0px;
+}
+
+/* ------------------------------------------------ LINKS --------------------------------------------------*/
+
+a{
+	text-decoration: none;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: rgb(47, 158,65);
+}
+
+/* ------------------------------------------------ CABEÇALHO ----------------------------------------------*/
+
+.cabeca{
+	width: 100%;
+	height: 30vh;
+	background-color: rgb(75, 73, 73);
+
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+
+}
+
+.logos{
+	width: 17%;
+	height: 30vh;
+	background-color: rgb(75, 73, 73);
+}
+
+.navegacao{
+	background-color: rgb(75, 73, 73);
+	width: 70%;
+	height: 10vh;
+	margin-top: 170px;
+}
+
+.links{
+	font-size: 25px;
+	margin-left: 90px;
+}
+
+/* ------------------------------------------------- BODY ------------------------------------------------*/
+
+.corpo{
+	width: 100%;
+	height: auto;
+	background-color: rgb(34, 34, 34);
+
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+}
+
+.blocoum{
+	width: 99%;
+	height: 50vh;
+	background-color: rgb(34, 34, 34);
+
+	display: flex;
+	flex-direction: column;
+
+	margin-left: 6px;
+	margin-right: 5px;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+
+.titulo{
+	width: 30%;
+	height: 5vh;
+	background-color: rgb(34, 34, 34);
+	color: rgb(47, 158,65);
+
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 15px;
+	margin-bottom: 5px;
+}
+
+.texto{
+	width: 99,9%;
+	height: 70vh;
+	background-color: rgb(60, 60, 60);
+
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 20px;
+	margin-bottom: 5px;
+	border-radius: 30px
+}
+
+.materias{
+	width: 99%;
+	height: 93vh;
+	background-color: rgb(34, 34, 34);
+
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: space-between;
+
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.imagens{
+	width: 24%;
+	height: 30vh;
+	background-color: rgb(34, 34, 34);
+
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+.disciplina{
+	width: 24%;
+	height: 60vh;
+	background-color: rgb(60, 60, 60);
+
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-radius: 30px
+}
+
+h1{
+	color: rgb(47, 158,65);
+}
+
+.materia{
+	margin-left: 63px;
+}
+
+.textos{
+	font-size: 25px;
+	margin-left: 10px;
+	margin-right:10px;
+	text-align: justify;
+}
+
+.quadros{
+	width: 100%;
+	height: 33vh;
+	background-color: rgb(34, 34, 34);
+
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+
+	margin-top: 15px;
+	margin-left: 0px;
+	margin-bottom: 5px;
+	margin-right: 10px;
+}
+
+.tituloequad{
+	width: 100%;
+	height: 50vh;
+	background-color: rgb(34, 34, 34);
+
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+
+	margin-top: 15px;
+	margin-left: 0px;
+	margin-bottom: 5px;
+	margin-right: 10px;
+}
+
+.quadros2{
+	width: 100%;
+	height: 38vh;
+	background-color: rgb(34, 34, 34);
+
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+
+	margin-top: 15px;
+	margin-left: 0px;
+	margin-bottom: 5px;
+	margin-right: 10px;
+}
+
+.titulo{
+	width: 100%;
+	height: 5vh;
+	background-color: rgb(34, 34, 34);
+}
+
+.quadri{
+	width: 23%;
+	height: 32vh;
+	background-color: rgb(34, 34, 34);
+
+	margin-top: 5px;
+	margin-left: 25px;
+	margin-bottom: 25px;
+	margin-right: 5px;
+}
+
+.quadrinh{
+	width: 48%;
+	height: 35vh;
+	background-color: rgb(34, 34, 34);
+
+	margin-top: 5px;
+	margin-left: 25px;
+	margin-bottom: 25px;
+	margin-right: 5px;
+}
+
+.ferramentadedesenho{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+
+}
+
+.ferdesenho{
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 8vh;
+	width: 40%;
+	height: 80vh;
+}
+
+
+	/* -------------------------------------------------- RODAPÉ ----------------------------------------------*/
+
+	.roda{
+	width: 100%;
+	height: 24vh;
+	background-color: rgb(75, 73, 73);
+
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+}
+
+.rodatexto{
+	width: 42%;
+	height: 20vh;
+	background-color: rgb(75, 73, 73);
+
+	margin-top: 20px;
+}
+
+.imag{
+	width: 30%;
+	height: 24vh;
+	background-color: rgb(75, 73, 73);
+}
+
+.decoracao{
+	width: 28%;
+	height: 24vh;
+	background-color: rgb(75, 73, 73);
+}
+
+.info{
+	font-size: 20px;
+	text-align: center;
+}

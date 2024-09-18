@@ -1,0 +1,35 @@
+body{
+    background-color:#B0C4DE;
+}
+p{
+	color:white;
+	font-size: 15px;
+}
+mark{
+	background-color:purple;
+	
+}
+h1{
+	color:#48D1CC;
+}
+h2{
+	color:#4B0082;
+}
+strong{
+
+}
+a{
+	font-size: 25px;
+}
+h3{
+	font-size: 80px;
+}
+header{
+	background-color: white;
+}
+footer{
+	background-color: white;
+}
+li{
+	color: white;
+}
